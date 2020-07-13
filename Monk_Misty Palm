@@ -1,0 +1,37 @@
+Class: Monk
+SubClass: The Way of the Misty Palm
+	Monks of the Misty Palm are masters of deception on the battle field. 
+	They learn techniques thats allow them to leave shadows of themselves 
+	across the battlefield as they move. As they progress in the technique 
+	they can move through the mist of their shadows at what appears insane
+	speeds and even control the mist.
+
+Honed Punches: 
+	Starting when you take this tradition at level 3 you gain expertise in
+	unarmed attacks. Double you martial die when making unarmed attacks. (Might be busted)
+
+Misty Palm Technique:
+	Starting when you take this tradition at level 3 you can manipulate you ki
+	to create a misty clone of yourself within half of your movement speed. 
+	You spend 1 ki point per clone you create to produce an	illusion of 
+	yourself as a bonus action.
+		-ac boost next to clone?
+		-spend a ki point to shift to a clone as a reaction
+			-shifting still can invoke opportunity attacks 
+				if you move past a creature
+			=if hit shifting stops immeditily.
+		-clones can attack when you take the attack action at quater damage 
+			rounded down(min 1)? until higher levels?
+		
+		OR
+		
+		-mimic Mirror image spell cost 2 ki. higher monk levels more clones
+		
+Shifting Mist:
+	Starting at lvl 6 you can shift around the battle field. You can spend 
+	one ki point per shift to trade places with a clone. If you shift behind a 
+	creature you auto crit on hit. You can move your clones using an amount of
+	your movement speed that the clone moves. Creatures cannot tell the 
+	difference between you and your clones.
+		
+	
