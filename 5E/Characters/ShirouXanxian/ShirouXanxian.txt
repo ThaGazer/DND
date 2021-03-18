@@ -27,3 +27,6 @@ be less enchanted on the sale.
 
 Expedition Guild:
 Talk to Gorathil
+
+NPCs:
+Maaka - cleric of saloon that krel killed after party left
