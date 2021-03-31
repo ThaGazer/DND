@@ -1,4 +1,5 @@
-:WORLD NOTES:
+:WORLD of GALIFAR NOTES:
+
 The Five Nations:
   In the modern age, the greatest power was the kingdom of Galifar, which covered most of the continent of Khorvaire.
   The Five Nations—Aundair, Breland, Karrnath, Thrane, and Cyre—formed the heart of the kingdom. Although each has a
@@ -16,106 +17,144 @@ The Treaty of Thronehold:
   the Talenta Plains, Thrane, Valenar, and Zilargo. These nations abide by a common set of laws and maintain
   diplomatic relations. The Demon Wastes and Shadow Marches regions have no unified government. Droaam has declared
   itself a nation but has yet to be recognized by the treaty nations.
+  
+  -liberated the Warforged, but also banned Cannith from creating any more
 
-Thronehold: Middle of the major nations. Place of the peace talks.
+Thronehold: Middle of the major nations. Place of the peace talks and where the King of the Contient.
 
-Silver Flame: 
-
+Silver Flame:
+  Its a little weird to have such an active god in the world. Most other gods are reserved from interacting with the 
+  material world
+  
+Emerald Claw: Minara Vol, matriarch of House Vol sought to end the war between elves and dragons by fusing the 
+  blood of both races. She was impregnated by the Emerald Claw whom, she fell in love with during her pregnancy.
+  Minara gave birth to a girl whom she named Erandis. Last heir of the dragon Mark of death. Emerald Claw himself,
+  whom was desperate for an end to the conflicts between the two races, voluntarily announced the news of the 
+  union of elvish and dragon blood. Fighting ceased as the dragons and elves united under the common goal of 
+  exterminating House Vol's bloodline and all half-dragons. The Emerald Claw is believed to have vanished soon 
+  after the purge began. Some historians believe him to have been killed defending the half-dragons
+  
+The Knights Arcane: are a specialized military group of Aundair headed by Lord Darro ir'Lain and loyal to the crown.
+  They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
+  Lord Darro's main source of wealth.
+  
 =======================================================================================================================
 :NATIONS:
+
 Aundair:
   Twightlight views: Raul is close with the rangers here
   Knights of Arcana:
+  
+  -Cannith East
 
 Breland:
-  Ruled by the ir'Wynarn family. Close ties to Karrnath.
   Twighlight views: Respects
+  Ruled by the ir'Wynarn family. Close ties to Karrnath.
 
+  -
+  -Cannith South
+  
   NPCs:
-  King: Boranel ir'Wynarn
-  Kings right hand man: 3
-  Kings brother: Lord Kor ir'Wynarn
-  King's Son: Aejar ir'Wynarn
-  Princess: Haydith ir'Wynarn
+    Boranel ir'Wynarn - King
+    3 - Kings right hand man
+    Lord Kor ir'Wynarn - Kings brother
+    Aejar ir'Wynarn - King's Son
+    Haydith ir'Wynarn - Princess
 
 Cyre:
-  My home nation. Desttroied by what ended up being called the Mourning. Probably was a plot put forth by house Canith
-  of the to finish off the war and kill all other nation in the process.
+  My home nation. Desttroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
+  to finish off the war and kill all other nation in the process unbenounced to most in the leadership outside the 
+  house.
+
+  -House d'Cannith
 
   NPCs:
-  Prince: Oargev ir’Wynarn
+    Oargev ir’Wynarn - Prince 
 
 Darguun:
- Twightlight views: Respects
+  Twightlight views: Respects
+  
+  -Cannith South
 
 Karrnath:
- House of warning Headed by the Medani family. The house is all about protection? Very close ties to Breland
- Twightlight views: Respects
+  Twightlight views: Respects
+  House of warning Headed by the Medani family. The house is all about protection? Very close ties to Breland
+  Famous for necormanic soilders. Common practice to serve the army twice. Once in death and life.
 
- NPCs:
-  King: Kaius III
-  Baron Trelib d'Medani - head of fam
+  Blood of Vol:
+    Doing raids in Q'Barra.
+    -Vanita?
+    -Damian: Bone Knight. Mentioned the Emerald claw tied to the shadow book.
+    
+  -Cannith East
+    
+  NPCs:
+    Kaius III - King
+    Baron Trelib d'Medani - head of fam
 
 Thrane:
- Twightlight views: Respects
+  Twightlight views: Respects
 
 Q'Barra:
   Mines
   Raul has a trip planned here. Not exactly sure for what.
 
 Zilargo:
- Twightligh views: Questionable Respect
-
-=======================================================================================================================
-:ALLIES:
-
-Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared toward party).
-  -Soul bonding spell?
-  -Icathon son?
-  -Killed velma in cold blood and the Church of the Silver Flame are hunting him down
-  -disabled machine that was creating the mournland
-
-Raul(Elf-M):
-  -Biggest sweetheart character every. Not capable of harm to friends.
-  -Created a orphanage for kids to teach them to learn and survive in the world. Also to syphon their magic to defend
-    the portal of maddness that we sealed in the Eldeen Reaches
-
-Xerxes(Tiefling-M):
-  -Moms name: Amethyst(Amy)
-  -Son of a demon lord?
-  -Master Key research
-    Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
-    But the key is rummored to be in the Dreadhold
-
-Ryu(Dragonborn-M):
-  -Pet Phoenix named Quinn
-  -His master is a dragon
-
-Mop(Warforge-M): Cool dude.
-
-Zenatos(Halfelf-M):
-  -Jaycobs pothead personallity if it was his only personallity.
+  Twightligh views: Questionable Respect
   
-Grixe(Goblin-F):
-  -Secretly like the air to the thrown i think
-  -good at building shit
+=======================================================================================================================  
+:HOUSES:
 
-Spellbook: Radcliff
-
+House d'Cannith: is a human dragonmarked house whose members are well known for their innovation and advancements in 
+  technology. They are responsible for technological wonders such as the Warforged and the lightning rail. In -500 YK 
+  The War of the Mark began and Cannith found itself an active and enthusiastic participant. It was during this war 
+  that Cannith discovered the Mark of Detection which lead to the creation of house Medani. When the Last War broke 
+  out, Cannith was ready to reap the benefits and found itself acting as an arms dealer to all nations.
+  
+  -Mark of Making
+  -Creators of Warforge
+  
+  Guilds:
+    Fabricators Guild
+    Tinkers Guild
+  
+  Cannith West: based out of Fairhaven, Aundair. It has a presence in Aundair and the Eldeen Reaches, and strong ties 
+    with the other dragonmarked houses through the Twelve. Jorlanna seeks to lead her branch into having stronger ties 
+    with the Five Nations and the other dragonmarked houses
+    
+    NPC:
+      Jorlanna d'Cannith - leader
+  
+  Cannith East: is led by Zorlan d'Cannith. This branch has an expertise in siege warfare and house members serve as 
+    advisors to Karrn generals. Zorlan is a devout follower of the Blood of Vol. Members of this house think of undead 
+    as a necromantic equivalent of Warforged
+  
+    NPC:
+      Zorlan d'Cannith - leader
+      
+  Cannith South: Located in Sharn's Ashblack district. Is lead by Merrix d'Cannith. Is seen by many people as the 
+    closest replacement for Whitehearth. Members of this enclave are all over Breland, Zilargo, and Darguun. 
+    Worship of the Traveler. This troubles Cannith West.
+  
+    NPC:
+      Merrix d'Cannith - leader
+      
 =======================================================================================================================
 :NPC:
 
-Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
-Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with
-Hiram Fox (human-M): My apprentice. Killed by Jasper
+  Crye
+    Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
+    Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
+    Hiram Fox (human-M): My apprentice. Killed by Jasper
 
-Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
-  his people?Wants to see the rebirth of Cyre. Has two tigers as body guards/pet.
-3(?): A fucking walking tank. Kings right hand man and in charge of his security. 
-      -Soverign rune on his sword. Dol-a-rrah
-Lord Kor ir'Wynarn(-M): Kings brother.
-Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
-Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
+  Breland:
+    Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
+      his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
+    3(?): A fucking walking tank. Kings right hand man and in charge of his security. 
+          -Soverign rune on his sword. Dol-a-rrah
+    Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
+    Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
+    Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
 
 King Kiaus - very presise. Dangerous General. Very ruthlus on the battlefield.
 
@@ -128,8 +167,51 @@ Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of 
     new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
     still is going through with the assassination attempt.
     
+Merrix d'Cannith: Leader of Cannith South.
+Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago
 
-von Walbach (goblin-M): discovered Neodymium dicony empire
+von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
+
+=======================================================================================================================
+:ALLIES:
+
+Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared toward party).
+  -Soul bonding spell?
+  -Icathon son?
+  -Killed velma in cold blood and the Church of the Silver Flame are hunting him down
+  -disabled machine that was creating the mournland
+  -ties to dak?
+
+Raul(Elf-M):
+  -elf titties
+  -Biggest sweetheart character every. Not capable of harm to friends.
+  -Created a orphanage for kids to teach them to learn and survive in the world. Also to syphon their magic to defend
+    the portal of maddness that we sealed in the Eldeen Reaches
+  -possessed by an extra planar being. Something is still within him not letting him sleep
+  -killed jorlanna d'Cannith at the forge of making when TC when back to secure the Mourning forge
+  
+Xerxes(Tiefling-M):
+  -Moms name: Amethyst(Amy)
+  -Son of a demon lord?
+  -Master Key research
+    Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
+    But the key is rummored to be in the Dreadhold
+
+Ryu(Dragonborn-M):
+  -Pet Phoenix named Quinn
+  -His master is a dragon (Ryu?)
+
+Mop(Warforge-M): Cool monk dude.
+
+Zenatos(Halfelf-M):
+  -Jaycobs pothead personallity if it was his only personallity.
+  
+Grixe(Goblin-F):
+  -Secretly like the air to the thrown i think
+  -good at building shit
+
+Spellbook: Radcliff
+
 =======================================================================================================================
 :BBEG:
 
@@ -163,27 +245,35 @@ Icathon the betrayer:
   Ancient red dragon - claims to be direct descended of kyber - no dragon is decended of kyber all true dragons are
   decedents of ebberron.
   Sealed away icathon Location: Q`barra (haka`trovhak)
+  
   Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
     masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
     Cult activity around icathon trying to release. Icathon tried to reincarnate into a new body.
+    
   Draconic prophecy: "Twin heart will release the flame that burns away the soul bound chain. Deceit set free to
     sore and grow unleased the beast from deep below"
+
+? (mind flayer):
+  -defeated him and his forces while protecting the portal to the realm of the maddness
+  
+Asmodious: Xerxes demon daddy. Essentially Satan. Big no-no
 
 =======================================================================================================================
 :MOONS:
 
 Some say the moons are portals. No one has ever landed on a moon to know for sure
 
-Dal Quor- The realm of dreams
+Dolurrh- The realm of dreams
 People: Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
   They can also possess people through their dreams. That is how they manipulate the material world.
   A war broke out with the giants of Xen 'Drik. With magic they learned to harness from the dragons they shattered the
   moon tied to it and severed the connection to the material plane.
 
-The realm used to teleport the ship passes through the 13th separated moon?
+  -The realm used to teleport the ship passes through the 13th separated moon?
 
 Xoriat- The realm of maddness
-Part of the sealing when Rittenhaus first joined
+
+  -Part of the sealing when Rittenhaus first joined
 
 =======================================================================================================================
 
@@ -207,45 +297,34 @@ Permanent Invisible servant named: Coylyn
 
 Tower Levels:
 1-3: As you enter the first thing you notice are how thick the walls are, a good 3 meters thick
-     (1meter - 3.2ft, Great Wall of China is roughly 5 meters thick). 2 layers of stone sandwiched around a section of
-   dried mud. The first three levels are a open grand hall 30ft high. On the ground are three metal disk 10ft across
-   spaced out from each other. Each has different sets of seating arrangements.
-
-********FOR LATER CONTRUCTION************
-If you look up there are three 10ft across metal disk floating spaced out from each other around in the hall.
-They each seem to be lazily drifting from side to side. You see one about the crash into the wall but then it stops
-mere feet from the wall and is repealed in a different direction controlled by forces you don't understand. Straight
-ahead of the party near the middle of the room is a stand. Placed a top of the stand is a crystal ball. Softly rotating
-in its stand.
-  Platform controls:
-    Up - twist right
-    Down - twist left
-    Left - roll left
-    Right - roll right
-    Away - roll up
-    Toward - roll down
-*********************************************
-
-Along the sides of the tower from top to bottom are two sets of stone slats rising toward the top forming a set of
-stairs to the next floors.
+    (1meter - 3.2ft, Great Wall of China is roughly 5 meters thick). 2 layers of stone sandwiched around a section of
+    dried mud. The first three levels are a open grand hall 30ft high. On the ground are three metal disk 10ft across
+    spaced out from each other. Each has different sets of seating arrangements.
+	Along the sides of the tower from top to bottom are two sets of stone slats rising toward the top forming a set of
+	stairs to the next floors. There is a chandeller suppened in the middle of the hall slowly spinning. Nested inside
+    of the chandeller are smaller geometric metal shapes connected at weird points that dont seem physically possible 
+    slowly spinning as well.
 4: Is a generic assembly hall. Like the senator hall in star wars for the Republic. On the outside of the hall is a
-  walk way for people to access stairs to the next floors. There are no chefs(yet) but there are pots and pans flying
-  around and food is being cook.
-5: Is a dining hall in the fashion of a Beer-garden. Long benches stretch the length of the hall. In the middle is a
-  window into the serving center. In the back of the center are stairs for the servers to reach the kitchen. The stairs
-  that run along the sides of the towers continue on up.
-6: is a kitchen. As you crest the floor there is a wall that runs the length of this floor blocking entrance to the
-  kitchen. In the middle of the wall there is a set of double doors if you wish to enter.
+    walk way for people to access stairs to the next floors. 
+5: Is a dining hall in the fashion of a Beer-garden. Long benches stretch the length of the hall. In the middle of a 
+    long wall is a window into a serving center. Serving tables, heat lamps and anything that is used to serve food
+    is nicely tucked in this room. There is a rectangular opening in the ceiling in the middle of the serving room 
+    that leads up into the kitchen but there are no stairs going up just a hole in the floor of the kitchen.
+    The stairs that run along the sides of the towers continue on up.
+6: Is a kitchen. As you crest the floor there is a wall that runs the length of this floor blocking entrance to the
+    kitchen. In the middle of the wall there is a set of double doors if you wish to enter. There are no chefs(yet) 
+    but there are pots and pans flying around and food is being cook.
 7-8: Are open to the outside world. The upper half is seemly disconnected from the lower half. This level is a garden.
-     There is a permanent major image going around the outside to make it appear continuous stone. There are 4
-   massively tall trees spread equally through the floor. On Closer inspection they are metal beams instead
-   supporting and securing the upper floors to the lower.
+    Not many plants yet. Awaiting a druids touch.
+    There is a permanent major image going around the outside so if you were looking at the tower from the outside it
+    would still look like continuous stone. There are 4 massively "tall" trees spread equally through the floor. 
+    On Closer inspection they are metal beams instead supporting and securing the upper floors to the lower.
 9: Bedrooms
 10: free for the party to take over and make their own
-11: Library. No books just empty shelfs waiting to hold something. There is a desk in the middle of the room with
+11: Library. Growing book collection. Most selfs are still empty though. There is a desk in the middle of the room with
     arcane symbols scribbled all over it. A person sitting at this table has the ability to read any language from
-  a book that is placed on the table.
-12-14: are sealed in stone walls 6ft thick on each side. There are no door in.
+    a book that is placed on the table.
+12-14: are sealed there are no door in.
 
 =======================================================================================================================
 :EXTRAS:
