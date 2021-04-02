@@ -142,33 +142,49 @@ House d'Cannith: is a human dragonmarked house whose members are well known for 
 =======================================================================================================================
 :NPC:
 
-  Crye
-    Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
-    Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
-    Hiram Fox (human-M): My apprentice. Killed by Jasper
+Crye
+  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
+  
+  Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
+  
+  Hiram Fox (human-M): My apprentice. Killed by Jasper
+  Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
+      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
+      He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
+      new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
+      still is going through with the assassination attempt.
 
-  Breland:
-    Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
-      his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
-    3(?): A fucking walking tank. Kings right hand man and in charge of his security. 
-          -Soverign rune on his sword. Dol-a-rrah
-    Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
-    Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
-    Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
-
-King Kiaus - very presise. Dangerous General. Very ruthlus on the battlefield.
-
-Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
-   "we shall see how long you sit atop your throne"
-
-Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
-    He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
-    He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
-    new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
-    still is going through with the assassination attempt.
+Breland:
+  Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
+    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
     
-Merrix d'Cannith: Leader of Cannith South.
-Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago
+  3(?): A fucking walking tank. Kings right hand man and in charge of his security. 
+        -Soverign rune on his sword. Dol-a-rrah
+        
+  Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
+  
+  Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
+  
+  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
+  
+  Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
+    "we shall see how long you sit atop your throne"
+
+  Merrix d'Cannith: Leader of Cannith South.
+  
+Karrnath:
+  Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
+    battlefield.
+    
+Aundair:
+  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
+  
+  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
+    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
+    with a heir of house Deneith.
+    
+    -Mugadar a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
+    -TC also kill her
 
 von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
 
