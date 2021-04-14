@@ -38,6 +38,8 @@ The Knights Arcane: are a specialized military group of Aundair headed by Lord D
   They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
   Lord Darro's main source of wealth.
   
+Phatom Phoenix:
+
 =======================================================================================================================
 :NATIONS:
 
@@ -84,7 +86,7 @@ Karrnath:
   Blood of Vol:
     Doing raids in Q'Barra.
     -Vanita?
-    -Damian: Bone Knight. Mentioned the Emerald claw tied to the shadow book.
+    -Damian: Bone Knight. Mentioned the Emerald claw and illmar tied to the shadow book.
     
   -Cannith East
     
@@ -148,6 +150,7 @@ Crye
   Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
   
   Hiram Fox (human-M): My apprentice. Killed by Jasper
+  
   Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
       He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
       He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
@@ -158,7 +161,7 @@ Breland:
   Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
     his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
     
-  3(?): A fucking walking tank. Kings right hand man and in charge of his security. 
+  3(Warforge-M): A fucking walking tank. Kings right hand man and in charge of his security. 
         -Soverign rune on his sword. Dol-a-rrah
         
   Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
@@ -175,7 +178,7 @@ Breland:
 Karrnath:
   Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
     battlefield.
-    
+        
 Aundair:
   Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
   
@@ -183,8 +186,9 @@ Aundair:
     woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
     with a heir of house Deneith.
     
-    -Mugadar a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
+    -Mugadar Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
     -TC also kill her
+    -found creepy book on jorlana
 
 von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
 
@@ -200,14 +204,15 @@ Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared
 
 Raul(Elf-M):
   -elf titties
-  -Biggest sweetheart character every. Not capable of harm to friends.
+  -Biggest sweetheart character ever. Not capable of harm to friends.
   -Created a orphanage for kids to teach them to learn and survive in the world. Also to syphon their magic to defend
     the portal of maddness that we sealed in the Eldeen Reaches
-  -possessed by an extra planar being. Something is still within him not letting him sleep
-  -killed jorlanna d'Cannith at the forge of making when TC when back to secure the Mourning forge
+  -was possessed by an extra planar being. Something is still within him not letting him sleep
+  -killed jorlanna d'Cannith at the forge of Making when TC whet back to secure the Mourning forge
   
 Xerxes(Tiefling-M):
   -Moms name: Amethyst(Amy)
+    -Xeres wants her to live around the Walsbach Tower
   -Son of a demon lord?
   -Master Key research
     Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
@@ -216,15 +221,18 @@ Xerxes(Tiefling-M):
 Ryu(Dragonborn-M):
   -Pet Phoenix named Quinn
   -His master is a dragon (Ryu?)
+  -ex member of dak
 
 Mop(Warforge-M): Cool monk dude.
 
 Zenatos(Halfelf-M):
   -Jaycobs pothead personallity if it was his only personallity.
+  -high skilled druid
   
 Grixe(Goblin-F):
   -Secretly like the air to the thrown i think
   -good at building shit
+  - really cares for the party
 
 Spellbook: Radcliff
 
@@ -271,6 +279,7 @@ Icathon the betrayer:
 
 ? (mind flayer):
   -defeated him and his forces while protecting the portal to the realm of the maddness
+  -deliora has a helm made out of it brain
   
 Asmodious: Xerxes demon daddy. Essentially Satan. Big no-no
 
@@ -292,6 +301,14 @@ Xoriat- The realm of maddness
   -Part of the sealing when Rittenhaus first joined
 
 =======================================================================================================================
+Rittenhuas' Magic Trick:
+  -pick any number you like 1-infinity                    ex. 683245
+  -add the sum of every digit to form a new number            => 28
+  -subtract that number from the original number              => 683217
+  -sum the digits of the new number                           => 27
+  -sum the digits again until there is only one number left   => 9
+  -divide by two                                              => 4.5 final answer
+
 
 The Walsbach Tower (Home of the twilight council and the start of the Wizardry School of Neodymium):
 As the party approaches the tower they walk over rolling hills covered in velvet grasses. The clouds hang low here as
