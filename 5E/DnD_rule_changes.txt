@@ -1,0 +1,43 @@
+:ABILITES:
+
+  - Strength stat determines damage modifiers by melee attacks. Modifiers
+    cannot be negitive.
+
+  - Dexterity determines the hit DC for all weapon attacks. Ranged attacks no 
+    longer have damage modifiers. Dex cannot be used for damage modifiers
+  
+  - Constitution determines the total health of a character. This health is
+    split between the 4 body part groups of the characters. Legs, torso, 
+    arms, head. 5 for winged creatures? Each body part has a total hp pool. 
+    Players can assign hit points on level up equal to hp rolled to any part 
+    they please raising the total hit point pool for that part. If the head or 
+    torso fall to 0 hit points the character is unconscious and making death 
+    saving throws. Each part below (1/4 or 1/2?) hp is considered ingured and 
+    imposes a sort of disadvange. AOE damage is shared across the body parts 
+    rounded up. If caught in a fireball that deals 24 damage. 
+    24 / 4 = 6 => each body part takes 6 damage. 
+    Armor changes are probably incoming too.
+    
+  - intelligence atays the same
+  
+  - Wisdom stays the same
+  
+  - Charisma stays the same.
+  
+:WEAPONS:
+
+  - unarmed strikes above 10 strength deal 1d4 + strength mod.
+  - all crossbows deal an extra dice of damage. So a light crossbow deals 2d8
+    instead of 1d8
+  - Net removed the bullshit solo attack rule. Or this could be a half feat?
+  
+:HEALS:
+
+  - single target healing spells like healing word or cure wounds target a
+    single body part. Cure wounds will remove the negative affect of a body 
+    part for being ingured regardless if the body part is above the ingured 
+    hp thresh hold.
+    
+:ARMOR:
+
+ - armors cover certain body parts. Uncovered body parts have a base ac of 10
