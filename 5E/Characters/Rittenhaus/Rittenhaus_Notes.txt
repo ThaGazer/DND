@@ -19,6 +19,7 @@ The Treaty of Thronehold:
   itself a nation but has yet to be recognized by the treaty nations.
   
   -liberated the Warforged, but also banned Cannith from creating any more
+  -New peace treaty has been signed and Cyre has been added as a new Nation.
 
 Thronehold: Middle of the major nations. Place of the peace talks and where the King of the Contient.
 
@@ -53,7 +54,6 @@ Breland:
   Twighlight views: Respects
   Ruled by the ir'Wynarn family. Close ties to Karrnath.
 
-  -
   -Cannith South
   
   NPCs:
@@ -68,7 +68,7 @@ Cyre:
   to finish off the war and kill all other nation in the process unbenounced to most in the leadership outside the 
   house.
 
-  -House d'Cannith
+  -Original House d'Cannith
 
   NPCs:
     Oargev ir’Wynarn - Prince 
@@ -192,6 +192,11 @@ Aundair:
 
 von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
 
+Thrane:
+  Jaela - high pristest
+  High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
+  Alexander ? (fins brother) - Highly decorated
+
 =======================================================================================================================
 :ALLIES:
 
@@ -200,7 +205,8 @@ Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared
   -Icathon son?
   -Killed velma in cold blood and the Church of the Silver Flame are hunting him down
   -disabled machine that was creating the mournland
-  -ties to dak?
+  -ties to dask?
+  -On trail for killing Velma.
 
 Raul(Elf-M):
   -elf titties
@@ -221,7 +227,7 @@ Xerxes(Tiefling-M):
 Ryu(Dragonborn-M):
   -Pet Phoenix named Quinn
   -His master is a dragon (Ryu?)
-  -ex member of dak
+  -ex member of dask
 
 Mop(Warforge-M): Cool monk dude.
 
@@ -269,6 +275,7 @@ Icathon the betrayer:
   Ancient red dragon - claims to be direct descended of kyber - no dragon is decended of kyber all true dragons are
   decedents of ebberron.
   Sealed away icathon Location: Q`barra (haka`trovhak)
+                                Deliora's sword in possession of the Silver Flame
   
   Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
     masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
