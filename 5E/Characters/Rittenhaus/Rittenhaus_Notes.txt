@@ -343,6 +343,61 @@ Tower Levels:
 12-14: are sealed there are no door in.
 
 =======================================================================================================================
+:SPELLS:
+
+Rittenhaus Polarity Lock
+  Reflavored immovable object.
+
+Lighter/heavier
+  Level: 2?
+  Cast time: 1 action (+ 10min if ritual)
+  Range: touch maybe? Range 30ft might also be nice
+  Duration: 1 min concentration
+  Description:
+    You touch a metal object (could be any object really but thematics for rittenhaus) and can increase or decrease the
+    weight of the object by 10lbs. If cast on a creature that creature gets a con saving throw to completely resist the
+    effects. If they fail their weight is affected by the amount specified by the caster. You can not reduce a 
+    creatures weight below 0 and have them cease to exist. (Maybe something about not being able to out right crush a 
+    creature under their own weight. Especially if cast at lvl6 and above.) Negative affects might apply to creatures 
+    who fail depending on DM rule. 
+    
+  UPCASTING:
+    For every level up until 5 you can add 10 lbs that you can affect with this spell, either increase or decrease. At 
+    lvl 6 the duration last until dispelled and requires no concentration. Also you can affect and control precisely 
+    how much weight to increase or decrease up to 100lbs for every level above 6 you can control a factor of 10 times 
+    more weight. So level 7 you can change 1,000lbs level 8 = 10,000 level 9 = 100,000
+    
+Rittenhaus Polarity Flux
+  Lvl: 3?
+  Casting time: 1 action
+  Range: 90ft
+  Area:30ft
+  Duration: instant
+  Save: strength
+  Description: 
+  You throw a mote of metal to a location in range. All metal in the area is either attracted/repelled to the mote. If 
+  a creature wearing metal is in the area they must succeed a strength saving throw or fall subject to the spells 
+  affect. The caster pick attraction or repulsion when the cast the spell.
+
+  Attracted: 
+    all metal objects or creatures that fail the save are hurled in a straight line towards the mote. If they 
+    collide with an object they take 3d8 bludgeoning damage. 
+
+  Repulsion: 
+    all metal objects or creature are forced in a straight line away from the mote until they reach the edge of the 
+    affected area. 
+    
+Rittenhaus Field of photon distortion
+  Lvl: 4
+  Range: 60ft
+  Area: 10ft radius
+  Casting Time: 1 action
+  Duration: 10 min concentration
+  Description: 
+    You create a magnetic field centered on an object so strong light and sound waves in the area get refracted around 
+    the area. Making any thing within the field appear invisible to creatures outside the field and no sound to pass 
+    out of the area. 
+=======================================================================================================================
 :EXTRAS:
 
 http://dnd5e.wikidot.com/background:archaeologist
