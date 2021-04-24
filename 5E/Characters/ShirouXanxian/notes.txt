@@ -18,7 +18,7 @@ Nara Yuann-colin:
 
 The Trinity
 Graul - goblin. Petty dealings.
-Bosh - warewolf. Deals in shady shit. Transport man
+Bosh - Deals in shady shit. Transport man
 Mama Ruka- dwarf. reports and taxes.
 
 PEOPLE OF INTEREST:
@@ -29,5 +29,16 @@ Expedition Guild:
 Talk to Gorathil
 
 NPCs:
-Maaka - cleric of saloon that krel killed after party left
-Sherry - cleric of saloon that we meet at the temple of Shar
+  Clerics of Saloon:
+  Maaka - cleric of saloon that krel killed after party left
+  Sherry - cleric of saloon that we meet at the temple of Shar
+
+  Mad Fellows:
+    Yozira (human-f) - super perceptive and stealthly
+    Chauncy (drow-m) - Bloodhunter
+    Rosalia (elf-f) - Druid support healer
+    Kled (m) - warlock im betting
+      -puppet name: no?
+    Yaya (Kobold-m) - Bard not very smart at all
+    Varhun (Dwarf-m) - Barbarian strong man
+    
