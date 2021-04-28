@@ -39,19 +39,26 @@ The Knights Arcane: are a specialized military group of Aundair headed by Lord D
   They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
   Lord Darro's main source of wealth.
   
-Phatom Phoenix:
+Phatom Phoenix: Ship that the TC commandeered and is currently using
+
+Dreadhold: Dreadhold was created on the orders of Karrn the Conqueror of Karrnath for his own evil purposes. The first
+  kings of Galifar had it converted into an almost inescapable prison. The dwarfs of House Kundarak currently run and
+  maintain the prison.
+    - A master thief is rumored to be held here holding a Key that can open anything.
 
 =======================================================================================================================
 :NATIONS:
 
 Aundair:
-  Twightlight views: Raul is close with the rangers here
+  Twightlight views: Raul is close with the rangers here maybe
+  
   Knights of Arcana:
   
   -Cannith East
 
 Breland:
   Twighlight views: Respects
+  
   Ruled by the ir'Wynarn family. Close ties to Karrnath.
 
   -Cannith South
@@ -76,6 +83,13 @@ Cyre:
 Darguun:
   Twightlight views: Respects
   
+  Is made up of a patchwork of clans, each clan led by a local warlord. All warlord swear fealty to a greater warlord.
+  Current leader is Lhesh Haruuc. Only nation to practice slavery.
+  
+  NPC's:
+    Grixe
+    Lhesh Haruuc
+  
   -Cannith South
 
 Karrnath:
@@ -96,15 +110,82 @@ Karrnath:
 
 Thrane:
   Twightlight views: Respects
+  Theocracy. Worships the Sliverflame. 
+  
+    NPC's:
+      Jaela
+      High Cardinal Krozen
+      Paladin Alexander
+      Fabian Estaban De La Cruz
 
 Q'Barra:
-  Mines
   Raul has a trip planned here. Not exactly sure for what.
 
 Zilargo:
   Twightligh views: Questionable Respect
-  
 =======================================================================================================================  
+:NPC:
+
+Crye
+  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
+  
+  Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
+  
+  Hiram Fox (human-M): My apprentice. Killed by Jasper
+  
+  Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
+      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
+      He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
+      new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
+      still is going through with the assassination attempt.
+
+Breland:
+  Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
+    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
+    
+  3(Warforge-M): A fucking walking tank. Kings right hand man and in charge of his security. 
+        -Soverign rune on his sword. Dol-a-rrah
+        
+  Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
+  
+  Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
+  
+  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
+  
+  Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
+    "we shall see how long you sit atop your throne"
+
+  Merrix d'Cannith: Leader of Cannith South.
+
+Darguun:
+  Lhesh Haruuc - Was a sword for hire during last war. Working for Breland to hold the territory of darguun. Broke off
+    relation and claimed the territory for their own. Abolished slavery in the Capital of Darguun. A well respected
+    fighter and negotianator.
+
+Karrnath:
+  Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
+    battlefield.
+        
+Aundair:
+  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
+  
+  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
+    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
+    with a heir of house Deneith.
+    
+    -Mugadar Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
+    -TC also kill her
+    -found creepy book on jorlana
+
+von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
+
+Thrane:
+  Jaela - high pristest
+  High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
+  Alexander ? (fins brother) - Highly decorated
+  Fabian Estaban De La Cruz - Pilot for Sliver-flame ship out of Thronehold. Ryu promised to me him fly.
+
+=======================================================================================================================
 :HOUSES:
 
 House d'Cannith: is a human dragonmarked house whose members are well known for their innovation and advancements in 
@@ -140,62 +221,8 @@ House d'Cannith: is a human dragonmarked house whose members are well known for 
   
     NPC:
       Merrix d'Cannith - leader
-      
-=======================================================================================================================
-:NPC:
 
-Crye
-  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
-  
-  Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
-  
-  Hiram Fox (human-M): My apprentice. Killed by Jasper
-  
-  Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
-      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
-      He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
-      new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
-      still is going through with the assassination attempt.
-
-Breland:
-  Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
-    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
-    
-  3(Warforge-M): A fucking walking tank. Kings right hand man and in charge of his security. 
-        -Soverign rune on his sword. Dol-a-rrah
-        
-  Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
-  
-  Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
-  
-  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
-  
-  Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
-    "we shall see how long you sit atop your throne"
-
-  Merrix d'Cannith: Leader of Cannith South.
-  
-Karrnath:
-  Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
-    battlefield.
-        
-Aundair:
-  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
-  
-  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
-    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
-    with a heir of house Deneith.
-    
-    -Mugadar Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
-    -TC also kill her
-    -found creepy book on jorlana
-
-von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
-
-Thrane:
-  Jaela - high pristest
-  High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
-  Alexander ? (fins brother) - Highly decorated
+House ?Medeian?:
 
 =======================================================================================================================
 :ALLIES:
@@ -236,9 +263,11 @@ Zenatos(Halfelf-M):
   -high skilled druid
   
 Grixe(Goblin-F):
-  -Secretly like the air to the thrown i think
-  -good at building shit
-  - really cares for the party
+  -Low key royality to the thrown of Darguun
+  -Uncle is Lhesh Haruuk Sharaat'kor
+  -Good at building mechanical magic items
+  -Really cares for the party
+  
 
 Spellbook: Radcliff
 
@@ -271,7 +300,7 @@ Bishop's Spellbook:
   polymorph
   secret chest
 
-Icathon the betrayer:
+Icathon the betrayer (Red Chromatic Dragon):
   Ancient red dragon - claims to be direct descended of kyber - no dragon is decended of kyber all true dragons are
   decedents of ebberron.
   Sealed away icathon Location: Q`barra (haka`trovhak)
@@ -315,7 +344,6 @@ Rittenhuas' Magic Trick:
   -sum the digits of the new number                           => 27
   -sum the digits again until there is only one number left   => 9
   -divide by two                                              => 4.5 final answer
-
 
 The Walsbach Tower (Home of the twilight council and the start of the Wizardry School of Neodymium):
 As the party approaches the tower they walk over rolling hills covered in velvet grasses. The clouds hang low here as
