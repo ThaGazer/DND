@@ -392,7 +392,16 @@ Tower Levels:
 11: Library. Growing book collection. Most selfs are still empty though. There is a desk in the middle of the room with
     arcane symbols scribbled all over it. A person sitting at this table has the ability to read any language from
     a book that is placed on the table.
-12-14: are sealed there are no door in.
+
+12-14: These floors feel more secluded compared to the other floors. To access this group of floors one must enter on 
+    the 13 floor and walk either up or down to get to the other floors. There is not landing on the 13th floor to 
+    indicate where an entery way would be. A false wall hides an entery point that takes a 19dc investigastion check to 
+    find if someone is searching around the 13th floor. Not everything on this floor is as it seems.
+    
+    12: Storage for now. Eventually maybe a secure item vault.
+    13: Another set of bed rooms but there are only 6 rooms. One for each member of the council. This is the only other
+        level with windows besides 7-8. The windows are disguied to look like they dont exist.
+    14: is in the proccess of being turned in to a full arcane labatory. Has the only access to the roof.
 
 =======================================================================================================================
 :SPELLS:
