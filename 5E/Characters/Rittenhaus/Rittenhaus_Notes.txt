@@ -19,8 +19,7 @@ The Treaty of Thronehold:
   itself a nation but has yet to be recognized by the treaty nations.
   
   -liberated the Warforged, but also banned Cannith from creating any more
-
-Thronehold: Middle of the major nations. Place of the peace talks and where the King of the Contient.
+  -New peace treaty has been signed and Cyre has been added as a new Nation. There are now 14 recognized Nations
 
 Silver Flame:
   Its a little weird to have such an active god in the world. Most other gods are reserved from interacting with the 
@@ -38,22 +37,30 @@ The Knights Arcane: are a specialized military group of Aundair headed by Lord D
   They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
   Lord Darro's main source of wealth.
   
-Phatom Phoenix:
+Phatom Phoenix: Ship that the TC commandeered and is currently using
+
+Dreadhold: Dreadhold was created on the orders of Karrn the Conqueror of Karrnath for his own evil purposes. The first
+  kings of Galifar had it converted into an almost inescapable prison. The dwarfs of House Kundarak currently run and
+  maintain the prison.
+    - A master thief is rumored to be held here holding a Key that can open anything.
 
 =======================================================================================================================
 :NATIONS:
 
+Thronehold: Middle of all the major nations. Place of the peace talks and where the King of the Contient.
+
 Aundair:
-  Twightlight views: Raul is close with the rangers here
+  Twightlight views: Raul is close with the rangers here maybe
+  
   Knights of Arcana:
   
   -Cannith East
 
 Breland:
   Twighlight views: Respects
+  
   Ruled by the ir'Wynarn family. Close ties to Karrnath.
 
-  -
   -Cannith South
   
   NPCs:
@@ -64,17 +71,24 @@ Breland:
     Haydith ir'Wynarn - Princess
 
 Cyre:
-  My home nation. Desttroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
+  My home nation. Destroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
   to finish off the war and kill all other nation in the process unbenounced to most in the leadership outside the 
   house.
 
-  -House d'Cannith
+  -Original House d'Cannith
 
   NPCs:
     Oargev ir’Wynarn - Prince 
 
 Darguun:
   Twightlight views: Respects
+  
+  Is made up of a patchwork of clans, each clan led by a local warlord. All warlord swear fealty to a greater warlord.
+  Current leader is Lhesh Haruuc. Only nation to practice slavery.
+  
+  NPC's:
+    Grixe
+    Lhesh Haruuc
   
   -Cannith South
 
@@ -96,15 +110,83 @@ Karrnath:
 
 Thrane:
   Twightlight views: Respects
+  Theocracy. Worships the Sliverflame. 
+  
+    NPC's:
+      Jaela
+      High Cardinal Krozen
+      Paladin Alexander
+      Fabian Estaban De La Cruz
 
 Q'Barra:
-  Mines
-  Raul has a trip planned here. Not exactly sure for what.
+  Raul has a trip planned here. There are reports attack by the Blood of Vol on eberron shard mining operations.
 
 Zilargo:
   Twightligh views: Questionable Respect
-  
 =======================================================================================================================  
+:NPC:
+
+Crye
+  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research and my girl
+  
+  Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
+  
+  Hiram Fox (human-M): My apprentice. Killed by Jasper
+  
+  Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
+      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across 
+      Khorvaire. He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's 
+      land to form a new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but 
+      his accomplices still is going through with the assassination attempt.
+
+Breland:
+  Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
+    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
+    
+  3(Warforge-M): A fucking walking tank. Kings right hand man and in charge of his security. 
+        -Soverign rune on his sword. Dol-a-rrah
+        
+  Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
+  
+  Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
+  
+  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
+  
+  Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
+    "we shall see how long you sit atop your throne"
+
+  Merrix d'Cannith: Leader of Cannith South.
+
+Darguun:
+  Lhesh Haruuc - Was a sword for hire during last war. Working for Breland to hold the territory of darguun. Broke off
+    relation and claimed the territory for their own. Abolished slavery in the Capital of Darguun. A well respected
+    fighter and negotianator.
+
+Karrnath:
+  Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
+    battlefield.
+        
+Aundair:
+  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago. TC 
+    presumable killed her
+  
+  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
+    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
+    with a heir of house Deneith.
+    
+    -Mugadar Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
+    -TC also kill her
+    -found creepy book on jorlana
+
+von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
+
+Thrane:
+  Jaela - high pristest
+  High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
+  Alexander ? (fins brother) - Highly decorated
+  Fabian Estaban De La Cruz - Pilot for Sliver-flame ship out of Thronehold. Ryu promised to me him fly.
+
+=======================================================================================================================
 :HOUSES:
 
 House d'Cannith: is a human dragonmarked house whose members are well known for their innovation and advancements in 
@@ -140,57 +222,8 @@ House d'Cannith: is a human dragonmarked house whose members are well known for 
   
     NPC:
       Merrix d'Cannith - leader
-      
-=======================================================================================================================
-:NPC:
 
-Crye
-  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
-  
-  Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
-  
-  Hiram Fox (human-M): My apprentice. Killed by Jasper
-  
-  Oargev ir’Wynarn(human-M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
-      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
-      He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
-      new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
-      still is going through with the assassination attempt.
-
-Breland:
-  Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
-    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
-    
-  3(Warforge-M): A fucking walking tank. Kings right hand man and in charge of his security. 
-        -Soverign rune on his sword. Dol-a-rrah
-        
-  Lord Kor ir'Wynarn(-M): Kings younger brother. Is the commander of the King's Citadel
-  
-  Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
-  
-  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
-  
-  Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
-    "we shall see how long you sit atop your throne"
-
-  Merrix d'Cannith: Leader of Cannith South.
-  
-Karrnath:
-  Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
-    battlefield.
-        
-Aundair:
-  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
-  
-  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
-    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
-    with a heir of house Deneith.
-    
-    -Mugadar Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
-    -TC also kill her
-    -found creepy book on jorlana
-
-von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
+House ?Medeian?:
 
 =======================================================================================================================
 :ALLIES:
@@ -200,7 +233,8 @@ Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared
   -Icathon son?
   -Killed velma in cold blood and the Church of the Silver Flame are hunting him down
   -disabled machine that was creating the mournland
-  -ties to dak?
+  -ties to dask?
+  -On trail for killing Velma.
 
 Raul(Elf-M):
   -elf titties
@@ -213,7 +247,7 @@ Raul(Elf-M):
 Xerxes(Tiefling-M):
   -Moms name: Amethyst(Amy)
     -Xeres wants her to live around the Walsbach Tower
-  -Son of a demon lord?
+  -Son of a demon lord name Asmodious
   -Master Key research
     Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
     But the key is rummored to be in the Dreadhold
@@ -221,7 +255,7 @@ Xerxes(Tiefling-M):
 Ryu(Dragonborn-M):
   -Pet Phoenix named Quinn
   -His master is a dragon (Ryu?)
-  -ex member of dak
+  -ex member of dask
 
 Mop(Warforge-M): Cool monk dude.
 
@@ -230,9 +264,11 @@ Zenatos(Halfelf-M):
   -high skilled druid
   
 Grixe(Goblin-F):
-  -Secretly like the air to the thrown i think
-  -good at building shit
-  - really cares for the party
+  -Low key royality to the thrown of Darguun
+  -Uncle is Lhesh Haruuk Sharaat'kor
+  -Good at building mechanical magic items
+  -Really cares for the party
+  
 
 Spellbook: Radcliff
 
@@ -265,10 +301,12 @@ Bishop's Spellbook:
   polymorph
   secret chest
 
-Icathon the betrayer:
+Icathon the betrayer (Red Chromatic Dragon):
   Ancient red dragon - claims to be direct descended of kyber - no dragon is decended of kyber all true dragons are
   decedents of ebberron.
-  Sealed away icathon Location: Q`barra (haka`trovhak)
+  Sealed away icathon Location: 
+    -Q`barra (haka`trovhak)
+    -Deliora's sword
   
   Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
     masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
@@ -286,7 +324,7 @@ Asmodious: Xerxes demon daddy. Essentially Satan. Big no-no
 =======================================================================================================================
 :MOONS:
 
-Some say the moons are portals. No one has ever landed on a moon to know for sure
+Some say the moons are portals. No one has ever landed on a moon to know for sure, could be made of cheese.
 
 Dolurrh- The realm of dreams
 People: Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
@@ -308,7 +346,6 @@ Rittenhuas' Magic Trick:
   -sum the digits of the new number                           => 27
   -sum the digits again until there is only one number left   => 9
   -divide by two                                              => 4.5 final answer
-
 
 The Walsbach Tower (Home of the twilight council and the start of the Wizardry School of Neodymium):
 As the party approaches the tower they walk over rolling hills covered in velvet grasses. The clouds hang low here as
@@ -357,8 +394,72 @@ Tower Levels:
 11: Library. Growing book collection. Most selfs are still empty though. There is a desk in the middle of the room with
     arcane symbols scribbled all over it. A person sitting at this table has the ability to read any language from
     a book that is placed on the table.
-12-14: are sealed there are no door in.
 
+12-14: These floors feel more secluded compared to the other floors. To access this group of floors one must enter on 
+    the 13 floor and walk either up or down to get to the other floors. There is not a landing on the 13th floor to 
+    indicate where an entery way would be. A false wall hides an entry point that takes a 19dc investigastion check to 
+    find if someone is searching around the 13th floor. Not everything on this floor is as it seems.
+    
+    12: Storage for now. Eventually maybe a secure item vault.
+    13: Another set of bed rooms but there are only 6 rooms. One for each member of the council. This is the only other
+        level with windows besides 7-8. The windows are disguied to look like they dont exist.
+    14: is in the proccess of being turned in to a full arcane labatory. Has the only access to the roof.
+
+=======================================================================================================================
+:SPELLS:
+
+Rittenhaus Polarity Lock
+  Reflavored immovable object.
+
+Lighter/heavier
+  Level: 2?
+  Cast time: 1 action (+ 10min if ritual)
+  Range: touch maybe? Range 30ft might also be nice
+  Duration: 1 min concentration
+  Description:
+    You touch a metal object (could be any object really but thematics for rittenhaus) and can increase or decrease the
+    weight of the object by 10lbs. If cast on a creature that creature gets a con saving throw to completely resist the
+    effects. If they fail their weight is affected by the amount specified by the caster. You can not reduce a 
+    creatures weight below 0 and have them cease to exist. (Maybe something about not being able to out right crush a 
+    creature under their own weight. Especially if cast at lvl6 and above.) Negative affects might apply to creatures 
+    who fail depending on DM rule. 
+    
+  UPCASTING:
+    For every level up until 5 you can add 10 lbs that you can affect with this spell, either increase or decrease. At 
+    lvl 6 the duration last until dispelled and requires no concentration. Also you can affect and control precisely 
+    how much weight to increase or decrease up to 100lbs for every level above 6 you can control a factor of 10 times 
+    more weight. So level 7 you can change 1,000lbs level 8 = 10,000 level 9 = 100,000
+    
+Rittenhaus Polarity Flux
+  Lvl: 3?
+  Casting time: 1 action
+  Range: 90ft
+  Area:30ft
+  Duration: instant
+  Save: strength
+  Description: 
+  You throw a mote of metal to a location in range. All metal in the area is either attracted/repelled to the mote. If 
+  a creature wearing metal is in the area they must succeed a strength saving throw or fall subject to the spells 
+  affect. The caster pick attraction or repulsion when the cast the spell.
+
+  Attracted: 
+    all metal objects or creatures that fail the save are hurled in a straight line towards the mote. If they 
+    collide with an object they take 3d8 bludgeoning damage. 
+
+  Repulsion: 
+    all metal objects or creature are forced in a straight line away from the mote until they reach the edge of the 
+    affected area. 
+    
+Rittenhaus Field of photon distortion
+  Lvl: 4
+  Range: 60ft
+  Area: 10ft radius
+  Casting Time: 1 action
+  Duration: 10 min concentration
+  Description: 
+    You create a magnetic field centered on an object so strong light and sound waves in the area get refracted around 
+    the area. Making any thing within the field appear invisible to creatures outside the field and no sound to pass 
+    out of the area. 
 =======================================================================================================================
 :EXTRAS:
 
