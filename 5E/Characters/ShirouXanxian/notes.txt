@@ -31,3 +31,5 @@ Talk to Gorathil
 NPCs:
 Maaka - cleric of saloon that krel killed after party left
 Sherry - cleric of saloon that we meet at the temple of Shar
+
+Logis - name on a sheet of paper in the wizard tower
