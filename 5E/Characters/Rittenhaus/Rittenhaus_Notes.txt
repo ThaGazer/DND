@@ -19,9 +19,7 @@ The Treaty of Thronehold:
   itself a nation but has yet to be recognized by the treaty nations.
   
   -liberated the Warforged, but also banned Cannith from creating any more
-  -New peace treaty has been signed and Cyre has been added as a new Nation.
-
-Thronehold: Middle of the major nations. Place of the peace talks and where the King of the Contient.
+  -New peace treaty has been signed and Cyre has been added as a new Nation. There are now 14 recognized Nations
 
 Silver Flame:
   Its a little weird to have such an active god in the world. Most other gods are reserved from interacting with the 
@@ -49,6 +47,8 @@ Dreadhold: Dreadhold was created on the orders of Karrn the Conqueror of Karrnat
 =======================================================================================================================
 :NATIONS:
 
+Thronehold: Middle of all the major nations. Place of the peace talks and where the King of the Contient.
+
 Aundair:
   Twightlight views: Raul is close with the rangers here maybe
   
@@ -71,7 +71,7 @@ Breland:
     Haydith ir'Wynarn - Princess
 
 Cyre:
-  My home nation. Desttroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
+  My home nation. Destroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
   to finish off the war and kill all other nation in the process unbenounced to most in the leadership outside the 
   house.
 
@@ -120,7 +120,7 @@ Thrane:
       Fabian Estaban De La Cruz
 
 Q'Barra:
-  Raul has a trip planned here. Not exactly sure for what.
+  Raul has a trip planned here. There are reports attack by the Blood of Vol on eberron shard mining operations.
 
 Zilargo:
   Twightligh views: Questionable Respect
@@ -130,7 +130,7 @@ Zilargo:
 Marshal Sorgon - Accient White dragon.
 
 Crye
-  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
+  Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research and my girl
   
   Jasper Porter (human-F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
   
@@ -177,7 +177,8 @@ Karrnath:
     -sent his daughter Haydith to Breland to secure peaceful relations.
         
 Aundair:
-  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
+  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago. TC 
+    presumable killed her
   
   Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
     woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
@@ -262,7 +263,7 @@ Raul(Elf-M):
 Xerxes(Tiefling-M):
   -Moms name: Amethyst(Amy)
     -Xeres wants her to live around the Walsbach Tower
-  -Son of a demon lord?
+  -Son of a demon lord name Asmodious
   -Master Key research
     Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
     But the key is rummored to be in the Dreadhold
@@ -323,8 +324,9 @@ Bishop's Spellbook:
 Icathon the betrayer (Red Chromatic Dragon):
   Ancient red dragon - claims to be direct descended of kyber - no dragon is decended of kyber all true dragons are
   decedents of ebberron.
-  Sealed away icathon Location: Q`barra (haka`trovhak)
-                                Deliora's sword in possession of the Silver Flame
+  Sealed away icathon Location: 
+    -Q`barra (haka`trovhak)
+    -Deliora's sword
   
   Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
     masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
@@ -391,7 +393,7 @@ Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searchin
 =======================================================================================================================
 :MOONS:
 
-Some say the moons are portals. No one has ever landed on a moon to know for sure
+Some say the moons are portals. No one has ever landed on a moon to know for sure, could be made of cheese.
 
 Dolurrh - The realm of the Abyss
 Dalquro- The realm of dreams
@@ -464,8 +466,8 @@ Tower Levels:
     a book that is placed on the table.
 
 12-14: These floors feel more secluded compared to the other floors. To access this group of floors one must enter on 
-    the 13 floor and walk either up or down to get to the other floors. There is not landing on the 13th floor to 
-    indicate where an entery way would be. A false wall hides an entery point that takes a 19dc investigastion check to 
+    the 13 floor and walk either up or down to get to the other floors. There is not a landing on the 13th floor to 
+    indicate where an entery way would be. A false wall hides an entry point that takes a 19dc investigastion check to 
     find if someone is searching around the 13th floor. Not everything on this floor is as it seems.
     
     12: Storage for now. Eventually maybe a secure item vault.
