@@ -28,10 +28,11 @@ be less enchanted on the sale.
 Expedition Guild:
 Talk to Gorathil
 
+
 NPCs:
   Clerics of Saloon:
-  Maaka - cleric of saloon that krel killed after party left
-  Sherry - cleric of saloon that we meet at the temple of Shar
+    Maaka - cleric of saloon that krel killed after party left
+    Sherry - cleric of saloon that we meet at the temple of Shar
 
   Mad Fellows:
     Yozira (human-f) - super perceptive and stealthly
@@ -41,4 +42,30 @@ NPCs:
       -puppet name: no?
     Yaya (Kobold-m) - Bard not very smart at all
     Varhun (Dwarf-m) - Barbarian strong man
+
+  Camleot:
+    Authur: A wanna be eldritch knight
+    Merlin:
+    Madam Morgana:
+    Mizarak: Shopkeep
     
+    Research lab:
+      -David(dead killed by svend) - undead goblin bartender who was hired to keep prying eyes out of the lab
+      
+      Loot:
+        2 amber 
+        amytheist
+        garnet
+        jade
+        weapon of warning club
+        mythril plate mail
+        notes of the research
+        1 vile of mysterious liquid
+
+  Nuntes City:
+    Iregil - Warden captain
+
+  Logus Xansier: My step-father
+    -master of the elementals at the lake inbetween Dahara
+    
+  Delta Xansier: Blonde hair. Was in camleot

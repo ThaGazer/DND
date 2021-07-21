@@ -78,7 +78,7 @@ Cyre:
   -Original House d'Cannith
 
   NPCs:
-    Oargev ir’Wynarn - Prince 
+    Oargev ir’Wynarn - New Prince/Current King
 
 Darguun:
   Twightlight views: Respects
@@ -98,6 +98,7 @@ Karrnath:
   Famous for necormanic soilders. Common practice to serve the army twice. Once in death and life.
 
   Blood of Vol:
+    Malevanor - High preist of crimson rite
     Doing raids in Q'Barra.
     -Vanita?
     -Damian: Bone Knight. Mentioned the Emerald claw and illmar tied to the shadow book.
@@ -126,6 +127,8 @@ Zilargo:
 =======================================================================================================================  
 :NPC:
 
+Marshal Sorgon - Accient White dragon.
+
 Crye
   Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research nnd my girl
   
@@ -138,6 +141,8 @@ Crye
       He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
       new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
       still is going through with the assassination attempt.
+      
+      -Will be in Eston starting to rebuild Crye
 
 Breland:
   Boranel ir'Wynarn (human-M): King is seen as a rather good leader. Will do what is needed to protect his house and
@@ -150,12 +155,15 @@ Breland:
   
   Aejar ir'Wynarn(-M): cool dude. old fighter turned spy
   
-  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath
+  Haydith ir'Wynarn(-F): Xerxes has a massive crush on her. Princess from karrath. Father is King Kiaus
   
   Lord Ruken ir'Clarn(?-M): was talking to the king before us. Had thoughts along the lines of
     "we shall see how long you sit atop your throne"
 
   Merrix d'Cannith: Leader of Cannith South.
+  
+  Sharn:
+    Edith Transmentor - Teleportation Clerk for the guild
 
 Darguun:
   Lhesh Haruuc - Was a sword for hire during last war. Working for Breland to hold the territory of darguun. Broke off
@@ -165,6 +173,8 @@ Darguun:
 Karrnath:
   Kiaus ir'Wynarn III - Governor-prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
     battlefield.
+    
+    -sent his daughter Haydith to Breland to secure peaceful relations.
         
 Aundair:
   Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago.
@@ -177,13 +187,17 @@ Aundair:
     -TC also kill her
     -found creepy book on jorlana
 
-von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
+Zilargo:
+  von Walbach (goblin-M): discovered Neodymium. Lived in the old dicony empire
 
 Thrane:
   Jaela - high pristest
+      Draconic Proph: "Only when all three children of the pregenitor dragon come to ?gather? can war really end"
+      
   High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
   Alexander ? (fins brother) - Highly decorated
   Fabian Estaban De La Cruz - Pilot for Sliver-flame ship out of Thronehold. Ryu promised to me him fly.
+    - say he name three times and he will help with any issue.
 
 =======================================================================================================================
 :HOUSES:
@@ -224,6 +238,8 @@ House d'Cannith: is a human dragonmarked house whose members are well known for 
 
 House ?Medeian?:
 
+House d'Kandarak: The house of warding
+
 =======================================================================================================================
 :ALLIES:
 
@@ -255,6 +271,8 @@ Ryu(Dragonborn-M):
   -Pet Phoenix named Quinn
   -His master is a dragon (Ryu?)
   -ex member of dask
+  
+  -Master Ryshan (dragonborn-green) 
 
 Mop(Warforge-M): Cool monk dude.
 
@@ -267,6 +285,8 @@ Grixe(Goblin-F):
   -Uncle is Lhesh Haruuk Sharaat'kor
   -Good at building mechanical magic items
   -Really cares for the party
+  
+Titannia(Fairy): Fairy Queen
   
 
 Spellbook: Radcliff
@@ -319,12 +339,62 @@ Icathon the betrayer (Red Chromatic Dragon):
   
 Asmodious: Xerxes demon daddy. Essentially Satan. Big no-no
 
+Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searching for a way to activate her dragon mark
+  I copied the 9th lvl gate. Her mother created her phylactery and she doesnt know where it is possibly.
+  
+  Diary:
+    There is a ritual that could mass detonate a large are of land
+
+    Manifest Zones - where the vail between planes is small. 
+      Karnath 
+      Ivory Mountain
+      Middle of the demon waste: this one is interesting because she hasnt been able to get close.
+    
+    Malevanor - high preist of the crismon monestary of the blood of vol. Potentially working for the lady
+        -Lake Dark in karnath: more power shipment for qbarra
+  
+  -AC 19
+  -Spell List:
+    shield
+    misty step
+    mirror image
+    summoning her friends probably a spell
+    dimmenison door
+    dispel magic
+    fire shield
+    chain lighting
+    finger of death
+    tether essence
+    time stop
+    
+  Possy:
+    Vampire(dead):
+      - AC 16
+      - only has 5th level spells
+      - two ledgendary resitences
+    Death Knight:
+      - has a charm ability
+    Sargon:
+      - working as a spy
+      
+  Loot:
+    - art (3) 
+    - 2500
+    - solid gold frame (1k gold)
+    - boots of striding and springing
+    - figurine of wondurous power (raven)
+    - beautiful shield
+    - winged boots
+    - gloves of missle snaring
+    - mace of terror
+    - 50k gold 29k plat
 =======================================================================================================================
 :MOONS:
 
 Some say the moons are portals. No one has ever landed on a moon to know for sure
 
-Dolurrh- The realm of dreams
+Dolurrh - The realm of the Abyss
+Dalquro- The realm of dreams
 People: Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
   They can also possess people through their dreams. That is how they manipulate the material world.
   A war broke out with the giants of Xen 'Drik. With magic they learned to harness from the dragons they shattered the
