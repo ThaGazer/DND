@@ -71,5 +71,19 @@ NPCs:
 
   Logus Xansier: My step-father
     -master of the elementals at the lake inbetween Dahara
-    
+  
+  Beta Xansier:
   Delta Xansier: Blonde hair. Was in camleot
+  
+  "the mirrors lie"
+  ---second door missed the sentence---
+  "action have consequences"
+  "he who controls the present can rewrite the past and future"
+  
+    "In the twilight of battle, one sister falters,
+      But Selûne hurls magic in desperate power.
+      From two sisters, one child the balance alters—
+      Mystryl's aid to Selûne ends Shar's dark hour!"
+    "The dark hour is nigh"
+    
+  "A very little key will open a very heavy door"
