@@ -80,10 +80,11 @@ NPCs:
   "action have consequences"
   "he who controls the present can rewrite the past and future"
   
-    "In the twilight of battle, one sister falters,
-      But Selûne hurls magic in desperate power.
-      From two sisters, one child the balance alters—
-      Mystryl's aid to Selûne ends Shar's dark hour!"
-    "The dark hour is nigh"
+    "In the twilight of battle, one sister falters,    "In the twilight of battle, one sister falters,
+      But Selûne hurls magic in desperate power.         But Selûne hurls magic in Absolute power.
+      From two sisters, one child the balance alters—    From two sisters, one child the balance alters—
+      Mystryl's aid to Selûne ends Shar's dark hour!"    Mystryl's aid to Selûne ends Shar's dark hour!"
+
+    "The dark hour is nigh" - riddle in the 4 lvl of the sharn temple
     
   "A very little key will open a very heavy door"
