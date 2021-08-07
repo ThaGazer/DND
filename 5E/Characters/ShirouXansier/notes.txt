@@ -88,3 +88,5 @@ NPCs:
     "The dark hour is nigh" - riddle in the 4 lvl of the sharn temple
     
   "A very little key will open a very heavy door"
+  
+  "Knowledge will lead the way forward

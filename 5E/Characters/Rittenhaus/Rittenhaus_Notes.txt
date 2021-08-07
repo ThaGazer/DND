@@ -476,6 +476,10 @@ Tower Levels:
     14: is in the proccess of being turned in to a full arcane labatory. Has the only access to the roof.
 
 =======================================================================================================================
+Simulacrum Me:
+
+hp: 84
+=======================================================================================================================
 :SPELLS:
 
 Rittenhaus Polarity Lock
@@ -539,3 +543,8 @@ Character-JSON endpoint: https://character-service.dndbeyond.com/character/v3/ch
 
 Magnetic Building:
 https://www.youtube.com/watch?v=UmHlE7SRJ5k
+
+
+
+
+
