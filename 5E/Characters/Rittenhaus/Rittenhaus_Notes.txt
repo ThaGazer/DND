@@ -25,7 +25,8 @@ Silver Flame:
   Its a little weird to have such an active god in the world. Most other gods are reserved from interacting with the 
   material world
   
-Emerald Claw: Minara Vol, matriarch of House Vol sought to end the war between elves and dragons by fusing the 
+Emerald Claw: 
+  Minara Vol, matriarch of House Vol sought to end the war between elves and dragons by fusing the 
   blood of both races. She was impregnated by the Emerald Claw whom, she fell in love with during her pregnancy.
   Minara gave birth to a girl whom she named Erandis. Last heir of the dragon Mark of death. Emerald Claw himself,
   whom was desperate for an end to the conflicts between the two races, voluntarily announced the news of the 
@@ -33,17 +34,39 @@ Emerald Claw: Minara Vol, matriarch of House Vol sought to end the war between e
   exterminating House Vol's bloodline and all half-dragons. The Emerald Claw is believed to have vanished soon 
   after the purge began. Some historians believe him to have been killed defending the half-dragons
   
-The Knights Arcane: are a specialized military group of Aundair headed by Lord Darro ir'Lain and loyal to the crown.
+The Knights Arcane: 
+  Are a specialized military group of Aundair headed by Lord Darro ir'Lain and loyal to the crown.
   They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
   Lord Darro's main source of wealth.
   
-Phatom Phoenix: Ship that the TC commandeered and is currently using
+Phatom Phoenix: 
+  Ship that the TC commandeered and is currently using
 
-Dreadhold: Dreadhold was created on the orders of Karrn the Conqueror of Karrnath for his own evil purposes. The first
+Dreadhold: 
+  Dreadhold was created on the orders of Karrn the Conqueror of Karrnath for his own evil purposes. The first
   kings of Galifar had it converted into an almost inescapable prison. The dwarfs of House Kundarak currently run and
   maintain the prison.
     - A master thief is rumored to be held here holding a Key that can open anything.
 
+Demon Waste:
+  Possible location of lady Illmarrow phylactery
+  
+  First Expedition:
+    Creatures:
+      Udakk - valunerable to thunder damage. int of 3
+      Wastrilith - high int
+      We saw a circus like tent floating around
+      
+    Giant Crack in the Ground:
+      Giant ?flying? Boar
+      Vulture like
+      3 rakshasa (ydde, dee, de) - works for Asmodius
+      Devourer with three undead minons - Xerxes dominated it
+      
+    Underground:
+      vigathrone - plant. used in potions fire resistance. Highly sought after
+      
+  
 =======================================================================================================================
 :NATIONS:
 
@@ -69,6 +92,11 @@ Breland:
     Lord Kor ir'Wynarn - Kings brother
     Aejar ir'Wynarn - King's Son
     Haydith ir'Wynarn - Princess
+    Treylib Medani - Tower of in
+    Lord ruken ir'Clarn
+    
+    Timot - small magic enthusist
+    marron - small magic enthusist
 
 Cyre:
   My home nation. Destroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
@@ -118,6 +146,7 @@ Thrane:
       High Cardinal Krozen
       Paladin Alexander
       Fabian Estaban De La Cruz
+      Thomas
 
 Q'Barra:
   Raul has a trip planned here. There are reports attack by the Blood of Vol on eberron shard mining operations.
@@ -127,7 +156,7 @@ Zilargo:
 =======================================================================================================================  
 :NPC:
 
-Marshal Sorgon - Accient White dragon.
+Marshal Sorgon - Accient White dragon. Part of the ?chamber?
 
 Crye
   Gelvin Viv (human-M): partner/best friend. Turnned on me and stole my research and my girl
@@ -164,6 +193,8 @@ Breland:
   
   Sharn:
     Edith Transmentor - Teleportation Clerk for the guild
+    Sutain - police ?officer? investigating destruction of clifftop adventures guild.
+      - part of the guards watch.
 
 Darguun:
   Lhesh Haruuc - Was a sword for hire during last war. Working for Breland to hold the territory of darguun. Broke off
@@ -196,7 +227,7 @@ Thrane:
       Draconic Proph: "Only when all three children of the pregenitor dragon come to ?gather? can war really end"
       
   High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
-  Alexander ? (fins brother) - Highly decorated
+  Alexander ? (fins brother) - Highly decorated paladin
   Fabian Estaban De La Cruz - Pilot for Sliver-flame ship out of Thronehold. Ryu promised to me him fly.
     - say he name three times and he will help with any issue.
 
@@ -237,14 +268,16 @@ House d'Cannith: is a human dragonmarked house whose members are well known for 
     NPC:
       Merrix d'Cannith - leader
 
-House ?Medeian?:
+House Deneith: The mark of the Sentinel
+  
+House Medani: The mark of Detection
 
-House d'Kandarak: The house of warding
+House d'Kandarak: The mark of warding
 
 =======================================================================================================================
 :ALLIES:
 
-Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared toward party).
+Deleora(Human-M): mental read a little sus on allegiances towards party (Cleared toward party). Definitely evil
   -Soul bonding spell?
   -Icathon son?
   -Killed velma in cold blood and the Church of the Silver Flame are hunting him down
@@ -273,7 +306,13 @@ Ryu(Dragonborn-M):
   -His master is a dragon (Ryu?)
   -ex member of dask
   
-  -Master Ryshan (dragonborn-green) 
+  -Master Ryshan (dragonborn-green)
+  
+  -Mentitioned the Library of Mirrors
+    
+
+(G)Arlic(Leonin-M):
+  -Chaotic Stupid minus the chaoticness
 
 Mop(Warforge-M): Cool monk dude.
 
@@ -288,7 +327,6 @@ Grixe(Goblin-F):
   -Really cares for the party
   
 Titannia(Fairy): Fairy Queen
-  
 
 Spellbook: Radcliff
 
@@ -327,6 +365,7 @@ Icathon the betrayer (Red Chromatic Dragon):
   Sealed away icathon Location: 
     -Q`barra (haka`trovhak)
     -Deliora's sword
+    -Deliora's soul
   
   Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
     masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
@@ -341,11 +380,17 @@ Icathon the betrayer (Red Chromatic Dragon):
   
 Asmodious: Xerxes demon daddy. Essentially Satan. Big no-no
 
-Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searching for a way to activate her dragon mark
+Ilmara(Dead): True name is Erandis Vol. Has the last dragon mark of Death. Is searching for a way to activate her dragon mark
   I copied the 9th lvl gate. Her mother created her phylactery and she doesnt know where it is possibly.
   
+  - Party thought it was a great idea to give her the book
+  - Phylactery is thought to be in a cravass in the Northern reaches of the Demon Wastes. 
+    - thats exactly where it was
+    - we fought her and her cronnies. Broke the ritual she was using by expending spells slots through the associated dragonmarks
+  
   Diary:
-    There is a ritual that could mass detonate a large are of land
+    There is a ritual that could mass detonate a large area of land
+      - Apparently the ritual uses the lay lines of magic in the world to access souls for manipulation
 
     Manifest Zones - where the vail between planes is small. 
       Karnath 
@@ -354,8 +399,8 @@ Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searchin
     
     Malevanor - high preist of the crismon monestary of the blood of vol. Potentially working for the lady
         -Lake Dark in karnath: more power shipment for qbarra
-  
-  -AC 19
+        
+  -AC ?
   -Spell List:
     shield
     misty step
@@ -374,7 +419,7 @@ Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searchin
       - AC 16
       - only has 5th level spells
       - two ledgendary resitences
-    Death Knight:
+    Death Knight Damon Marrow:
       - has a charm ability
     Sargon:
       - working as a spy
@@ -390,33 +435,32 @@ Ilmara: True name is Erandis Vol. Has the last dragon mark of Death. Is searchin
     - gloves of missle snaring
     - mace of terror
     - 50k gold 29k plat
+    
+    Last battle:
+    - ring of spell storing
+    - ring of xray vision
+    - ring of protection
+    - ring of evasion
+    - ring of telekenis
 =======================================================================================================================
 :MOONS:
 
 Some say the moons are portals. No one has ever landed on a moon to know for sure, could be made of cheese.
 
 Dolurrh - The realm of the Abyss
-Dalquro- The realm of dreams
-People: Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
-  They can also possess people through their dreams. That is how they manipulate the material world.
-  A war broke out with the giants of Xen 'Drik. With magic they learned to harness from the dragons they shattered the
-  moon tied to it and severed the connection to the material plane.
+Dalquro - The realm of dreams
+  People: 
+    Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
+      They can also possess people through their dreams. That is how they manipulate the material world.
+      A war broke out with the giants of Xen 'Drik. With magic they learned to harness from the dragons they shattered the
+      moon tied to it and severed the connection to the material plane.
 
-  -The realm used to teleport the ship passes through the 13th separated moon?
+  - The realm used to teleport the ship passes through the 13th separated moon?
 
-Xoriat- The realm of maddness
-
-  -Part of the sealing when Rittenhaus first joined
+Xoriat - The realm of maddness
+  - Part of the sealing when Rittenhaus first joined
 
 =======================================================================================================================
-Rittenhuas' Magic Trick:
-  -pick any number you like 1-infinity                    ex. 683245
-  -add the sum of every digit to form a new number            => 28
-  -subtract that number from the original number              => 683217
-  -sum the digits of the new number                           => 27
-  -sum the digits again until there is only one number left   => 9
-  -divide by two                                              => 4.5 final answer
-
 The Walsbach Tower (Home of the twilight council and the start of the Wizardry School of Neodymium):
 As the party approaches the tower they walk over rolling hills covered in velvet grasses. The clouds hang low here as
 if trying to touch the ground, giving the area a slight fog on days. Not so much eerie as the stillness breaths of
@@ -475,10 +519,6 @@ Tower Levels:
         level with windows besides 7-8. The windows are disguied to look like they dont exist.
     14: is in the proccess of being turned in to a full arcane labatory. Has the only access to the roof.
 
-=======================================================================================================================
-Simulacrum Me:
-
-hp: 84
 =======================================================================================================================
 :SPELLS:
 
@@ -545,6 +585,18 @@ Magnetic Building:
 https://www.youtube.com/watch?v=UmHlE7SRJ5k
 
 
+  Xanathar's Guide to Everything adds optional rules for creating spell scrolls. They can be found on page 133, but I'll highlight the basics here.
+  A character must have proficiency with the Arcana skill as well as the spell prepared/known and must have the material components required to cast the spell.
+  The cost to scribe a spell scroll is in gold required and time taken. See chart below, all Cantrips scribed are cast as if the caster were 1st level.
 
-
-
+  Level	  Time Cost	Gold Cost
+  Cantrip	1 day	    15 gp
+  1st	    1 day	    25 gp
+  2nd	    3 days	  250 gp
+  3rd	    1 week	  500 gp
+  4th	    2 weeks	  2,500 gp
+  5th	    4 weeks	  5,000 gp
+  6th	    8 weeks	  15,000 gp
+  7th	    16 weeks	25,000 gp
+  8th	    32 weeks	50,000 gp
+  9th	    48 weeks	250,000 gp

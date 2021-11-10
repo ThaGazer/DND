@@ -19,7 +19,7 @@ Nara Yuann-colin:
 The Trinity
   Graul - goblin. Petty dealings.
   Bosh - Deals in shady shit. Transport man
-  Mama Ruka- dwarf. reports and taxes.
+  Mama Ruka - dwarf. reports and taxes.
 
 PEOPLE OF INTEREST:
   bobo bilgins
@@ -27,12 +27,16 @@ PEOPLE OF INTEREST:
 Expedition Guild:
   Talk to Gorathil
 
-
 NPCs:
   bobo bilgins- bought majority of magic items leaving the Dahara. Ark doesnt like the resale of the items. They seem to
   be less enchanted on the sale.
 
-  Logis - name on a sheet of paper in the wizard tower for one of our first quest
+  Logus Xansier: My step-father
+    -a name on a sheet of paper in the wizard tower for one of our first quest
+    -master of the elementals at the lake inbetween Dahara
+  
+  Beta Xansier:
+  Delta Xansier: Blonde hair. Was in camleot
 
   Clerics of Saloon:
     Maaka - cleric of saloon that krel killed after party left
@@ -47,6 +51,9 @@ NPCs:
     Yaya (Kobold-m) - Bard not very smart at all
     Varhun (Dwarf-m) - Barbarian strong man
 
+Grey Crown:
+  Dahara:
+  
   Camleot:
     Authur: A wanna be eldritch knight
     Merlin:
@@ -54,7 +61,7 @@ NPCs:
     Mizarak: Shopkeep
     
     Research lab:
-      -David(dead killed by svend) - undead goblin bartender who was hired to keep prying eyes out of the lab
+      -David([dead] killed by svend) - undead goblin bartender who was hired to keep prying eyes out of the lab
       
       Loot:
         2 amber 
@@ -67,19 +74,52 @@ NPCs:
         1 vile of mysterious liquid
 
   Nuntes City:
-    Iregil - Warden captain
+    Big Three:
+      Lauren
+      Ernersa (Valrora)
+      Aela(These are all spelt wrong for sure)
+    Iregil - Captain of the Gaurd
+    Graciele - Adventures guild front desk lady
+    Slivana - Librarian
+      Brit - Librarian assistant
+      
+    Shin Jihn - Special guest 
+    
+    Talk to Lauren for quest to protect banquent
+    
+    Circus:
+      Herald - Ring leader
+      Shiela
+      Falicia
+      Gustavo
+      
+    Party:
+      Rabbe with take over kukis body to be resurected. Air ganasi cunt(Kayli) was suppose to be the original host.
+  
+  Brenkt:
+  
+The Fallen:
+  Cledon:
+  Gotin:
+  Camarun:
+  Osecaster:
+  Lys Alana:
+  
+BBEG:
+  Kayli
+  Logus Xansier
 
-  Logus Xansier: My step-father
-    -master of the elementals at the lake inbetween Dahara
-  
-  Beta Xansier:
-  Delta Xansier: Blonde hair. Was in camleot
-  
+=======================================================================================================================
+Sharns Dungeon of Bullshit
+  1st Level:
   "the mirrors lie"
+  2nd Level:
   ---second door missed the sentence---
+  3rd Level:
   "action have consequences"
+  4th Level:
   "he who controls the present can rewrite the past and future"
-  
+
     "In the twilight of battle, one sister falters,    "In the twilight of battle, one sister falters,
       But Selûne hurls magic in desperate power.         But Selûne hurls magic in Absolute power.
       From two sisters, one child the balance alters—    From two sisters, one child the balance alters—
@@ -87,6 +127,10 @@ NPCs:
 
     "The dark hour is nigh" - riddle in the 4 lvl of the sharn temple
     
+  5th Level:
   "A very little key will open a very heavy door"
-  
+  6th Level:
   "Knowledge will lead the way forward
+  7th Level:
+  "Fear not the darkness, but what might lurk within"
+  
