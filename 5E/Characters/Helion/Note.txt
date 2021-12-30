@@ -19,5 +19,14 @@ Smuggler Ship:
     Captains cabin - Principles of Navigation by Da Korda, Legal Distinctions in Letters of Marque by Tazaar
     Firstmate cabin - Grog Hovels - notary of taverns and inns friendly to criminals
     Cargo hold - 40 casks of wine, 40 bolts of silk, bulk set of mining tools
-    
   
+Whichlight:
+  Hither, thither, here and there; wander yonder, show me where.
+  
+  Hither:
+    -Mind the Rule of Three: Future, present, past
+    -Find the alicorn and free the dormant queen at last
+    
+    -Trinkets are the coinage of Prismer
+    
+    -going to downfall to find clapper claw the scareclaw
