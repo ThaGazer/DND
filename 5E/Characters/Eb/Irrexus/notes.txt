@@ -1,0 +1,75 @@
+Players:
+  + Irrexus(me):
+    - A thri kreen bard. At the young age of 12 he killed his first humanoid. Ran away when 
+      he was young and join a bandit group. The leader of the group had some magical ability. 
+      We would run some scams of hunting down “defilers”. Hustling kank herds from nomads. 
+      Highway banditry and such. One time when we were out hustling a kank herd a 1000 head 
+      strong they start to stampede. I got bucked from my mount in the middle of the stampede 
+      and swore i was dead. I heard a voice call down from the sky as i fell and asked if i would 
+      follow. Faced with assured death i heartily agree. A singular lighting bolt struck the ground 
+      killing everything but me. A 1000 head of kank and the entire crew dead around me as i 
+      lay on the ground. 
+      I now live in balic working as a black jack dealer. Answering the call of that mysterious voice in the 
+      sky when it calls
+      
+      hp rolls: 
+      Defiler points: 2
+  + Djarin(Colin):
+    - Blade the vampire
+    - part wizard
+    - missing a soul
+    - loves the taste of defilers
+    - needs to drink blood to survive
+  + Ghost(Artemis):
+    -
+  + Hildr(Troy):
+    - An angle send from the raven queen
+  + Aviaot(Dante):
+    - An elf found inside an Infernal Recruiters camp
+    
+Julian ash - owner of a strip club in Balic
+  - comes from a family with money
+
+Old Greg(Mule) - security guard to the strip club in Balic
+
+Darian Araxies - a preator of Balic
+  - a sick son of a defiling bitch
+  - dead
+  
+Elijah - important but not sure for what
+  - def bad dude
+
+Black Cloaks
+  NPC:
+    + wham bam
+    + truleida
+    + quicks
+      - super tiny gobloid
+
+Veiled Alliance
+  A good aligned group trying to put an end to defilers
+  
+  - HQ at Everfall
+  NPC:
+    + Sadon Mobellis
+    
+Infernal Recruiters
+  NPC:
+    + Gorastro
+    
+Loot    
+  + Revenant Battle:
+    - 5 short
+    - 5 long bows
+    - 65 arrows
+    - 69 ceramic
+    - iron bracers
+    - fine cloths
+    - 14 rations
+    
+  + Infernal Recruiters Raids:
+    wand of the war mage +1
+    cryo container
+      - single use cone of cold
+    
+    
