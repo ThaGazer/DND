@@ -1,0 +1,823 @@
+:WORLD of GALIFAR NOTES:
+
+The Five Nations:
+  In the modern age, the greatest power was the kingdom of Galifar, which covered most of the continent of Khorvaire.
+  The Five Nations—Aundair, Breland, Karrnath, Thrane, and Cyre—formed the heart of the kingdom. Although each has a
+  unique cultural identity, they share this unified foundation. Families are spread across the Five Nations;
+  the rulers of the Five Nations descend from the Wynarns, the royal bloodline of Galifar. Despite their differences,
+  an Aundairian has more in common with a Thrane than with a Zil gnome or a Lhazaar pirate.
+  A century ago Galifar collapsed into civil war, and the Five Nations became separate countries at odds with their
+  neighbors. The Last War came to an end after Cyre was destroyed in a cataclysm known as the Mourning. The Five
+  Nations remain divided today, sharing Khorvaire with the new nations established by the Treaty of Thronehold.
+  The remaining Five Nations remain the largest and most powerful countries in Khorvaire.
+
+The Treaty of Thronehold:
+  Officially ended the Last War. The treaty recognized the following nations as sovereign
+  states: Aundair, Breland, Darguun, the Eldeen Reaches, Karrnath, the Lhazaar Principalities, the Mror Holds, Q’barra,
+  the Talenta Plains, Thrane, Valenar, and Zilargo. These nations abide by a common set of laws and maintain
+  diplomatic relations. The Demon Wastes and Shadow Marches regions have no unified government. Droaam has declared
+  itself a nation but has yet to be recognized by the treaty nations.
+  
+  - liberated the Warforged, but also banned Cannith from creating any more
+  - New peace treaty has been signed and Cyre has been added as a new Nation. There are now 14 recognized Nations
+
+Silver Flame:
+  Its a little weird to have such an active god in the world. Most other gods are reserved from interacting with the 
+  material world
+  
+Emerald Claw: 
+  Minara Vol, matriarch of House Vol sought to end the war between elves and dragons by fusing the 
+  blood of both races. She was impregnated by the Emerald Claw whom, she fell in love with during her pregnancy.
+  Minara gave birth to a girl whom she named Erandis. Last heir of the dragon Mark of death. Emerald Claw himself,
+  whom was desperate for an end to the conflicts between the two races, voluntarily announced the news of the 
+  union of elvish and dragon blood. Fighting ceased as the dragons and elves united under the common goal of 
+  exterminating House Vol's bloodline and all half- dragons. The Emerald Claw is believed to have vanished soon 
+  after the purge began. Some historians believe him to have been killed defending the half- dragons
+  
+The Knights Arcane: 
+  Are a specialized military group of Aundair headed by Lord Darro ir'Lain and loyal to the crown.
+  They are one of Aundair's strongest and most capable units. Seized major treasures during the Last War and this is 
+  Lord Darro's main source of wealth.
+  
+Dreadhold: 
+  Dreadhold was created on the orders of Karrn the Conqueror of Karrnath for his own evil purposes. The first
+  king Galifar had it converted into an almost inescapable prison. The dwarfs of House Kundarak currently run and
+  maintain the prison. After Galifar died the Dreadhold 
+    - A master thief is rumored to be held here holding a Key that can open anything. (key aquired)
+    - Red ward is for the lesser criminal
+    - Gold ward more dangerous and for those that are waiting to be petrified
+    - Deep ward prisoners are turned to stone. Max level security. 
+      - Silence, anti- magic, arcane locks, private sanctum Adamantite doors
+`
+Demon Waste:
+  Possible location of lady Illmarrow phylactery
+  
+  First Expedition:
+    Creatures:
+      Udakk - valunerable to thunder damage. int of 3
+      Wastrilith - high int
+      We saw a circus like tent floating around
+      
+    Giant Crack in the Ground:
+      Giant ?flying? Boar
+      Vrocks - Vulture like demon creatures
+      3 rakshasa (ydde, dee, de) - works for Asmodius
+      Devourer with three undead minons - Xerxes dominated it
+      
+    Underground:
+      vigathrone - plant. used in potions fire resistance. Highly sought after
+      
+Draconic Prophecy: 
+  - ""
+  - "Only when all three children of the pregenitor dragon come to ?gather? can war really end"
+  
+Realem of Siberhys:
+  - The face of ebberron
+  - weakend asmodeous mind
+  - 
+
+Senate Meeting of Dragons:
+  - Qorinixis decedent Crownixis opens the address
+=======================================================================================================================
+:MOONS:
+
+Some say the moons are portals. No one has ever landed on a moon to know for sure, could be made of cheese.
+
+Dolurrh - The realm of the Abyss
+Dal Quor - The realm of dreams
+  People: 
+    Quori - creatures that interact can enter others dreams. (Dream eaters is my guess)
+      They can also possess people through their dreams. That is how they manipulate the material world.
+      A war broke out with the giants of Xen 'Drik. With magic they learned to harness from the dragons they shattered the
+      moon tied to it and severed the connection to the material plane.
+
+  - The realm used to teleport the ship passes through the 13th separated moon?
+
+Xoriat - The realm of maddness
+  - Part of the sealing when Rittenhaus first joined
+
+Daanvi - the Perfect Order
+Dolurrh - the Realm of the Dead
+Fernia - the Sea of Fire
+Irian - the Eternal Day
+Kythri - the Churning Chaos
+Risia - the Plain of Ice and Water
+Syrania - the Azure Sky
+Lamannia - the Twilight Forest
+Mabar - the Endless Night
+Shavarath - the Battleground
+Thelanis - the Faerie Court
+
+=======================================================================================================================
+:Vehicles:
+  Argonth:
+    - Brelands warship
+    - Familar is watching over it
+
+  Phable Phoenix: 
+    - Ship that the TC commandeered and is currently using
+
+  Phable Phoenix Copy: HP:500-302-91-0
+    - Grixe showed up to pick us up from the Devil Vs. Dragon in argonession to get us to the face of eberron so that
+      we could fight asmodeous
+  Devils Ride:
+    - Hell bike
+    - Driver gets halfs cover
+    - immune to fire, poison, psychic
+    
+  Tormentor:
+    - Hell suicide van
+    - acid bile 30 ft cone dc 12dex 9d8 creatures hit dissolve
+    - infernal screamer 120ft range dc 15 wis 4d12 pshyic
+  
+  Asmodeus Captial ship:
+  Leather bound pocket watch - has two times that correlate to different planes. Intialed Z.C. Engraved symb
+  Maps - contain locations for the ritual to pull thalosit into hell
+  
+  Magical Safe - three part combination lock requiring a dc 28 lock picking check. Any one fail sends out a massive 
+    wave of necro damage. Moved to azals demiplane. Cracked it
+    
+    
+    
+    Loot:
+    - picture of a photo of a nice young tiefling man
+    - a vial with something moving around with in it
+    - a bunch of organized files
+=======================================================================================================================
+:NATIONS:
+
+Thronehold: Middle of all the major nations. Place of the peace talks and where the King of the Contient.
+
+Aundair:
+  
+  Twightlight views: Raul is close with the rangers here maybe
+  
+  Knights of Arcana:
+  
+  - Cannith East
+
+Breland:
+  Twighlight views: Respects
+  
+  Ruled by the ir'Wynarn family. Close ties to Karrnath.
+
+  - Cannith South
+  
+  NPCs:
+    Boranel ir'Wynarn - King
+    3 - Kings right hand man
+    Lord Kor ir'Wynarn - Kings brother
+    Aejar ir'Wynarn - King's Son
+    Haydith ir'Wynarn - Princess
+    Treylib Medani - Tower of in
+    Lord ruken ir'Clarn
+    
+    Timot - small magic enthusist
+    marron - small magic enthusist
+
+Cyre:
+  My home nation. Destroied by what ended up being called the Mourning. Probably was a plot put forth by house Cannith
+  to finish off the war and kill all other nation in the process unbenounced to most in the leadership outside the 
+  house.
+
+  - Original House d'Cannith
+  
+  Party honoring Deliora:
+    Party was going nicely. Peace and rebuilding were being talked about. I had 'nice' chat with jasper. 
+    Everything changed when hadren decided to blame the crown for being run by demons. 
+    Humadi aka Muhadi was uncovered as a rakshasha. All of the princes, kings and queens were discovered as being 
+    under the control of a very powerful demon. Queen Dianna was killed when Xerxes teleported near her and unleashed 
+    an anitmagic zone.
+    
+    Attendies:
+      Gelvin(Died)
+      Jasper(Died)
+      Zorlan de'Cannith(captured)
+      High Prince Rygar ir'Wynarn(Died)
+      Prince Adal ir'Wynarn
+      Queen Aurala ir'Wynarn
+      Queen Dianni ir'Wynarn(Died)
+      King Oargev ir'Wynarn
+      Lord Kor ir'Wynarn(Died)
+      Lord Darro ir'Lain - Knights of arcane commander
+      King Kiaus ir'Wynarn
+      Baroness Esravash Lyander
+      Maagrum Torrn
+      Grumun HorseChoker
+      Amira(Died)
+      
+      Knights of Arcane
+
+  NPCs:
+    Oargev ir’Wynarn - New Prince/Current King
+
+Darguun:
+  Twightlight views: Respects
+  
+  Is made up of a patchwork of clans, each clan led by a local warlord. All warlord swear fealty to a greater warlord.
+  Current leader is Lhesh Haruuc. Only nation to practice slavery.
+  
+  NPC's:
+    Grixe
+    Lhesh Haruuc
+  
+  - Cannith South
+
+Karrnath:
+  Twightlight views: Respects
+  House of warning Headed by the Medani family. The house is all about protection? Very close ties to Breland
+  Famous for necormanic soilders. Common practice to serve the army twice. Once in death and life.
+
+  Blood of Vol:
+    Malevanor - High preist of crimson rite
+    Doing raids in Q'Barra.
+    - Vanita?
+    - Damian: Bone Knight. Mentioned the Emerald claw and illmar tied to the shadow book.
+    
+  - Cannith East
+    
+  NPCs:
+    Kaius III - King
+    Baron Trelib d'Medani - head of fam
+
+Mror Holds:
+  Korunda Gate - is both a city and an enclave located in the Ironroot Mountains in the Mror Holds. 
+    The city is owned and run by House Kundarak and has an estimated population of 19,500 to 20,000+. 
+    The actual gate itself is an entrance into the dwarven enclaves of the Mror Holds and the ruins 
+    of the ancient dwarvish empire.
+  Frostmantle - 
+    Casandra - runs a rune carving shope that can modify armor an weapons
+      - Draco trained here to learn the rune carving technique
+    
+Thrane:
+  Twightlight views: Respects
+  Theocracy. Worships the Sliverflame. 
+  
+    NPC's:
+      Jaela
+      High Cardinal Krozen
+      Paladin Alexander
+      Fabian Estaban De La Cruz
+      Thomas
+
+Q'Barra:
+  Raul has a trip planned here. There are reports attack by the Blood of Vol on eberron shard mining operations.
+
+Zilargo:
+  Twightligh views: Questionable Respect
+=======================================================================================================================  
+:NPC:
+
+Prince Ryger ir'Wynarn of Lhazaar Principalities
+
+Marshal Sorgon - Accient White dragon. Part of the Chamber
+
+Crye
+  Gelvin Viv (human- M): partner/best friend. Turnned on me and stole my research and my girl
+  
+  Jasper Porter (human- F): Gelvin's appentince. Love of my life. Betrayed me and ran away with Gelvin
+  
+  Hiram Fox (human- M): My apprentice. Killed by Jasper
+  
+  Oargev ir’Wynarn(human- M): is the last surviving scion of the royal family of Cyre and thus a king without a kingdom.
+      He serves as the mayor of New Cyre in Breland and the de facto leader of the Cyran refugees spread across Khorvaire.
+      He is apart of a ploy to try and assassinate the King of Breland and steal a chunk of land Breland's land to form a
+      new Cyre nation. He decided to back out after Deliora reversed the effects of the Mourning, but his accomplices 
+      still is going through with the assassination attempt.
+      
+      - Will be in Eston starting to rebuild Crye
+
+Breland:
+  Boranel ir'Wynarn (human- M): King is seen as a rather good leader. Will do what is needed to protect his house and
+    his people?Wants to see the rebirth of Cyre. The King has two Magebred Ghost Tigers that he keeps as pets.
+    
+  3(Warforge- M): A fucking walking tank. Kings right hand man and in charge of his security. 
+        - Soverign rune on his sword. Dol- a- rrah
+        
+  Lord Kor ir'Wynarn(- M): Kings younger brother. Is the commander of the King's Citadel
+  
+  Aejar ir'Wynarn(- M): cool dude. old fighter turned spy
+  
+  Haydith ir'Wynarn(- F): Xerxes has a massive crush on her. Princess from karrath. Father is King Kiaus
+  
+  Lord Ruken ir'Clarn(?- M): was talking to the king before us. Had thoughts along the lines of
+    "we shall see how long you sit atop your throne"
+
+  Merrix d'Cannith: Leader of Cannith South.
+  
+  Sharn:
+    Edith Transmentor - Teleportation Clerk for the guild
+    Sutain - police ?officer? investigating destruction of clifftop adventures guild.
+      - part of the guards watch.
+
+Darguun:
+  Lhesh Haruuc - Was a sword for hire during last war. Working for Breland to hold the territory of darguun. Broke off
+    relation and claimed the territory for their own. Abolished slavery in the Capital of Darguun. A well respected
+    fighter and negotianator.
+
+Karrnath:
+  Kiaus ir'Wynarn III - Governor- prince of Karrnath in 890 YK. Very presise. Dangerous General. Very ruthles on the 
+    battlefield.
+    
+    - sent his daughter Haydith to Breland to secure peaceful relations.
+    
+Aundair:
+  Aurala: Queen
+    - might be under the control of asmodeous
+    - made an apperance at the honoring of the saving of cyre
+  Avhexa d'Cannith: Last owner of our ship. "Daughter" of Merrix D'Cannith. Went missing about a year ago. TC 
+    presumable killed her
+  
+  Jorlanaa d'Cannith: She governs Cannith West, from Fairhaven, Aundair. Jorlanna d'Cannith is a proud and attractive
+    woman in her fifties. She is the daughter of the last leader of the house's second wife, Elsabet. Rumors of a kid
+    with a heir of house Deneith.
+    
+    - Muhadi a rakshasa that the TC killed was traveling with her in the forge that created Warforge.
+    - TC also kill her
+    - found creepy book on jorlana called the Necronomicon
+    - Bitch still lives. Probably revived by Muhadi
+    
+  Arcanix:
+    - Willum
+      - brought a cunk of a neodimium to the tower asking questions about my past
+
+Zilargo:
+  von Walbach (goblin- M): discovered Neodymium. Lived in the old dicony empire
+
+Mror Holds:
+  Korrunda Gate:
+    Morrikan d'Kundarak:
+      - head of his house
+      - experience life before the 100 year war
+      - member of the iron council
+      - has been trying to persuade the rest of the council to reach out to the aldeen reaches about the tides of honor
+      - city has cases of poisioned water and large groups of people disappearing into the mountains
+    Primsy Coldbottom: Silver flame gatekeeper. Aspiring reporter
+      - was mind blanked by an ab
+    Kirgieg woldbrew: Head of merchant guild
+    Zaxan d'Kundarak: 
+
+Thrane:
+  Queen Diani ir'Wynarn - 30ish. Very pompus. Thinks herself more important than she actually is. More of a place holder
+    for the cardinals of the Silver flame
+    - made an apperance at the honoring of the saving of cyre
+    
+  Jaela - high pristest of the Silver flame. Only about 14 years old. Very emtional but trying her best to protect her 
+    people.
+    
+    - Recently banished the TC from Thrane all together on charges that we knowingly did dangerous experiments that could
+      have caused massive amounts of damage to the world
+      
+  High Cardinal Krozen - Ring leader of the Cardinals for the church of flames
+  
+  Alexander ? (fins brother) - Highly decorated paladin of the Flame
+    - Has been pushed to the edge of his morality with the continued disregard of punishment that the Cardinals take 
+      toward the continued death of FLame members at the hands of Deleora. Xerxes talked him back down and convinced
+      him to stay a paladin of the Flame.
+  
+  Fabian Estaban De La Cruz - Pilot for Sliver- flame ship out of Thronehold. Ryu promised to me him fly.
+    - say he name three times and he will help with any issue.
+    - currently the captain of the Phabled Phoenix
+  
+=======================================================================================================================
+:HOUSES:
+
+House d'Cannith: is a human dragonmarked house whose members are well known for their innovation and advancements in 
+  technology. They are responsible for technological wonders such as the Warforged and the lightning rail. In - 500 YK 
+  The War of the Mark began and Cannith found itself an active and enthusiastic participant. It was during this war 
+  that Cannith discovered the Mark of Detection which lead to the creation of house Medani. When the Last War broke 
+  out, Cannith was ready to reap the benefits and found itself acting as an arms dealer to all nations.
+  
+  - Mark of Making
+  - Creators of Warforge
+  
+  Guilds:
+    Fabricators Guild
+    Tinkers Guild
+  
+  Cannith West: based out of Fairhaven, Aundair. It has a presence in Aundair and the Eldeen Reaches, and strong ties 
+    with the other dragonmarked houses through the Twelve. Jorlanna seeks to lead her branch into having stronger ties 
+    with the Five Nations and the other dragonmarked houses
+    
+    NPC:
+      Jorlanna d'Cannith - leader
+  
+  Cannith East: is led by Zorlan d'Cannith. This branch has an expertise in siege warfare and house members serve as 
+    advisors to Karrn generals. Zorlan is a devout follower of the Blood of Vol. Members of this house think of undead 
+    as a necromantic equivalent of Warforged
+  
+    NPC:
+      Zorlan d'Cannith - leader
+        - made an apperance at the honoring of the saving of cyre
+      
+  Cannith South: Located in Sharn's Ashblack district. Is lead by Merrix d'Cannith. Is seen by many people as the 
+    closest replacement for Whitehearth. Members of this enclave are all over Breland, Zilargo, and Darguun. 
+    Worship of the Traveler. This troubles Cannith West.
+  
+    NPC:
+      Merrix d'Cannith - leader
+
+House Deneith: The mark of the Sentinel
+  Sentinel Morgan Sargon
+  Sentinel Azal Deneith
+    the library of Korunburne
+  
+House Medani: The mark of Detection
+  Baron Trelib d'Medani
+
+House d'Kundarak: The mark of warding
+  Morrikan: Governor of Korrunda Gate
+    - Decent folk. hard ass. Loves to drink. Cares deeply about his people
+  Lummerim: Son to Morrikan
+    - has other plans to care to after the Dreadhold
+  Zaxan: Wardden of the Dreadhold
+  
+House d'Civis: The mark of scribing
+  
+
+=======================================================================================================================
+:ALLIES:
+
+  - gift of alcruty
+  - fortune favor
+  - pulse wave 
+  - gravity sink hole
+  - magnify gravity
+  - immovable object
+  
+ME:
+  Address Book:
+    - Sharn
+    - Flamekeep
+    - Thronehold
+    - Mor Holds
+    - 
+    
+  Demiplane: 
+    - item prison to lock away cinders bane
+    - acts as a cell for jorlana
+    - azels plane that held the devil safe
+    - fernia time chamber
+
+Hadren:
+  - brought us knowledge of an attack happening in Thalios and that demons are running Aundair
+  - loves killing demons
+  -loves country
+
+Kane Blastawits: 
+  - Has thoughts of bunnies
+
+Deleora(Human- M): mental read a little sus on allegiances towards party (Cleared toward party). Definitely evil
+  - Soul bonding spell?
+  - Icathon son?
+  - Killed velma in cold blood and the Church of the Silver Flame are hunting him down
+  - disabled machine that was creating the mournland
+  - ties to dask?
+  - On trail for killing Velma.
+  - Trapped Icathon the betrayer in his sword
+  - Summoned a Unicorn and named it Butt Stalion
+  - Lost control of icathon's containment when he uses the temple relic and ended died
+  - Is currently imprisioned in the Betrayer Sword with icathon
+
+Raul(Elf- M):
+  - elf titties
+  - Biggest sweetheart character ever. Not capable of harm to friends.
+  - Created a orphanage for kids to teach them to learn and survive in the world. Also to syphon their magic to defend
+    the portal of maddness that we sealed in the Eldeen Reaches
+  - was possessed by an extra planar being. Something is still within him not letting him sleep
+  - killed jorlanna d'Cannith at the forge of Making when TC whet back to secure the Mourning forge
+  - Opened an orphanage and is now living in 
+Xerxes(Tiefling- M):
+  - Moms name: Amethyst(Amy)
+    - Xeres wants her to live around the Walsbach Tower
+  - Son of a demon lord name Asmodious
+  - Master Key research
+    Entombed in stone with one of the greatest thiefs in the world i think. Might be wrong. 
+    But the key is rummored to be in the Dreadhold
+    - was caught stealing from a celestial
+    - real name bryer
+      - the green singer 
+      - theif of beyond
+  - Carries the Betrayer Sword (contains both deliora and Icathon)
+Ryu(Dragonborn- M):
+  - Pet Phoenix named Quinn
+  - His master is a dragon (Ryu?)
+  - ex member of dask
+  
+  - Master Ryshan (dragonborn- green)
+  
+  - Mentitioned the Library of Mirrors
+    
+Roach:
+  - Grix might have been involved with his wifes death
+  - Died in the battle with icathon
+  
+(G)Arlic(Leonin- M):
+  - Chaotic Stupid minus the chaoticness 
+
+Mop(Warforge- M): Cool monk dude.
+
+Zenatos(Halfelf- M):
+  - Jaycobs pothead personallity if it was his only personallity.
+  - high skilled druid
+  
+Grixe(Goblin- F):
+  - Low key royality to the thrown of Darguun
+  - Uncle is Lhesh Haruuk Sharaat'kor
+  - Good at building mechanical magic items
+  - Really cares for the party
+  
+Titannia(Fairy): Fairy Queen
+
+Spellbook: Radcliff
+
+=======================================================================================================================
+:BBEG:
+
+Rak Tel Kesh: Overlord of war. Grew stronger with every drop of blood spilled on the battle field.
+  The ultimate battle field commander.
+Asmodious:
+
+
+
+  Contracts -
+    - azriele (NULL)
+    - erin (NULL)
+    - marrix (NULL)
+    - Gelvin
+    - Zorlan
+    - Krozen
+    - Jorlana
+
+Devil Prince Xerxes ship:
+  Safe:
+    - a family photo with xerxes and ammy
+    - a memory bug
+    - box of contracts
+
+Jorlana:
+  flame tounge warhammer
+  gem of true seeing
+  pair of winged boots
+  amulet of health 
+  wand of lighing bolts
+  ring of freemovement
+ 
+Bryer
+
+Aboleth:
+  Was feeding a company called OOWater in Korund Gate slim to control citizens. Was previously in a fight with the TC
+  against the Goblins nation.
+  Loot:
+    2 large diamonds worth 750
+    onyix worth 75 gold
+
+Bishop's Spellbook:
+1st:
+  cause fear
+  charm person
+  find familiar
+  sleep
+  unseen servant
+2nd:
+  detect thoughts
+  invisibility
+  rope trick
+  suggestion
+  favor for a favor
+3rd:
+  animate dead
+  counterspell
+  glyph of warding
+  major image
+  summon less demon
+  summon undead
+  vampiric touch
+4th:
+  faithful hound
+  polymorph
+  secret chest
+
+Icathon the betrayer (Red Chromatic Dragon):
+  Ancient red dragon 
+  - claims to be direct descended of kyber 
+  - no dragon is decended of kyber all true dragons are
+  decedents of ebberron.
+  Sealed away icathon Location: 
+    - Q`barra (haka`trovhak)
+    - Deliora's sword
+    - Deliora's soul
+  
+  Age of demons (long time ago): betrayed dragons to become immortal and a demon lord. Gave battle plans to
+    masthric(the cold sun). Dragons with the help of Kotals(dragon servant) over threw the demons.
+    Cult activity around icathon trying to release. Icathon tried to reincarnate into a new body.
+    
+  Draconic prophecy: "Twin heart will release the flame that burns away the soul bound chain. Deceit set free to
+    sore and grow unleased the beast from deep below"
+
+? (mind flayer):
+  - defeated him and his forces while protecting the portal to the realm of the maddness
+  - deliora has a helm made out of it brain
+
+Ilmara(Dead): True name is Erandis Vol. Has the last dragon mark of Death. Is searching for a way to activate her dragon mark
+  I copied the 9th lvl gate. Her mother created her phylactery and she doesnt know where it is possibly.
+  
+  - Party thought it was a great idea to give her the book
+  - Phylactery is thought to be in a cravass in the Northern reaches of the Demon Wastes. 
+    - thats exactly where it was
+    - we fought her and her cronnies. Broke the ritual she was using by expending spells slots through the associated dragonmarks
+  
+  Diary:
+    There is a ritual that could mass detonate a large area of land
+      - Apparently the ritual uses the lay lines of magic in the world to access souls for manipulation
+
+    Manifest Zones - where the vail between planes is small. 
+      Karnath 
+      Ivory Mountain
+      Middle of the demon waste: this one is interesting because she hasnt been able to get close.
+    
+    Malevanor - high preist of the crismon monestary of the blood of vol. Potentially working for the lady
+        - Lake Dark in karnath: more power shipment for qbarra
+        
+  - AC ?
+  - Spell List:
+    shield
+    misty step
+    mirror image
+    summoning her friends probably a spell
+    dimmenison door
+    dispel magic
+    fire shield
+    chain lighting
+    finger of death
+    tether essence
+    time stop
+    
+  Possy:
+    Vampire(dead):
+      - AC 16
+      - only has 5th level spells
+      - two ledgendary resitences
+    Death Knight Damon Marrow:
+      - has a charm ability
+    Sargon:
+      - working as a spy by the name of Azal
+      
+  Loot:
+    - art (3) 
+    - 2500
+    - solid gold frame (1k gold)
+    - boots of striding and springing
+    - figurine of wondurous power (raven)
+    - beautiful shield
+    - winged boots
+    - gloves of missle snaring
+    - mace of terror
+    - 50k gold 29k plat
+    
+    Last battle:
+    - ring of spell storing
+    - ring of xray vision
+    - ring of protection
+    - ring of evasion
+    - ring of telekenis
+
+=======================================================================================================================
+The Walsbach Tower (Home of the twilight council and the start of the Wizardry School of Neodymium):
+  As the party approaches the tower they walk over rolling hills covered in velvet grasses. The clouds hang low here as
+  if trying to touch the ground, giving the area a slight fog on days. Not so much eerie as the stillness breaths of
+  serenity. There is a forest perimeter in the distance filled with tall trees. Whose tops reach ever higher in to the
+  sky trying as they might to pierce the fog. The trees canopies are covered in cotton ball like leaves attached to
+  beanpole trunks. Ancient Sequoia trees that stand as a monument to the test of time. As the party crest the last hill
+  before them lays a flat valley with grass stalks swaying in the wind. Further ahead from where Rittenhaus has lead
+  the party, there is a alcove in the tree cover and tucked into that alcove stands a tower whose top ascends higher than
+  even the trees. A magnificent tower that stands proudly at exactly 144.25ft tall. Thick stone walls formed into the
+  shape of a decahedron. Decorating the tower every 12ft up the wall is a band of pink hue glass backlit in darkness.
+  In the fog that hangs over the tower, the glass seems to be immolating itself turning from shades of pink to red.
+  Reminds several of descriptions of the astral sea. On the ground around the tower there are beads of metal strewn
+  about. At first glance they seem to be haphazardly place. Like if a giant dropped a bag of marbles. But upon further
+  inspection you notice there are 6 circular path ways set around the tower. Each path intersecting with a ball to form
+  the likes of a pearl necklace.
+
+  Tower Levels:
+  1- 3: As you enter the first thing you notice are how thick the walls are, a good 3 meters thick
+      (1meter - 3.2ft, Great Wall of China is roughly 5 meters thick). 2 layers of stone sandwiched around a section of
+      dried mud. The first three levels are a open grand hall 30ft high. On the ground are three metal disk 10ft across
+      spaced out from each other. Each has different sets of seating arrangements.
+    Along the sides of the tower from top to bottom are two sets of stone slats rising toward the top forming a set of
+    stairs to the next floors. There is a chandeller suppened in the middle of the hall slowly spinning. Nested inside
+      of the chandeller are smaller geometric metal shapes connected at weird points that dont seem physically possible 
+      slowly spinning as well.
+  4: Is a generic assembly hall. Like the senator hall in star wars for the Republic. On the outside of the hall is a
+      walk way for people to access stairs to the next floors. 
+  5: Is a dining hall in the fashion of a Beer- garden. Long benches stretch the length of the hall. In the middle of a 
+      long wall is a window into a serving center. Serving tables, heat lamps and anything that is used to serve food
+      is nicely tucked in this room. There is a rectangular opening in the ceiling in the middle of the serving room 
+      that leads up into the kitchen but there are no stairs going up just a hole in the floor of the kitchen.
+      The stairs that run along the sides of the towers continue on up.
+  6: Is a kitchen. As you crest the floor there is a wall that runs the length of this floor blocking entrance to the
+      kitchen. In the middle of the wall there is a set of double doors if you wish to enter. There are no chefs(yet) 
+      but there are pots and pans flying around and food is being cook.
+  7- 8: Are open to the outside world. The upper half is seemly disconnected from the lower half. This level is a garden.
+      Not many plants yet. Awaiting a druids touch.
+      There is a permanent major image going around the outside so if you were looking at the tower from the outside it
+      would still look like continuous stone. There are 4 massively "tall" trees spread equally through the floor. 
+      On Closer inspection they are metal beams instead supporting and securing the upper floors to the lower.
+  9: Bedrooms
+  10: free for the party to take over and make their own
+  11: Library. Growing book collection. Most selfs are still empty though. There is a desk in the middle of the room with
+      arcane symbols scribbled all over it. A person sitting at this table has the ability to read any language from
+      a book that is placed on the table.
+
+  12- 14: These floors feel more secluded compared to the other floors. To access this group of floors one must enter on 
+      the 13 floor and walk either up or down to get to the other floors. There is not a landing on the 13th floor to 
+      indicate where an entery way would be. A false wall hides an entry point that takes a 19dc investigastion check to 
+      find if someone is searching around the 13th floor. Not everything on this floor is as it seems.
+      
+      12: Storage for now. Eventually maybe a secure item vault.
+      13: Another set of bed rooms but there are only 6 rooms. One for each member of the council. This is the only other
+          level with windows besides 7- 8. The windows are disguied to look like they dont exist.
+      14: is in the proccess of being turned in to a full arcane labatory. Has the only access to the roof.
+
+=======================================================================================================================
+:SPELLS:
+
+Rittenhaus Polarity Lock
+  Reflavored immovable object.
+
+Lighter/heavier
+  Level: 2?
+  Cast time: 1 action (+ 10min if ritual)
+  Range: touch maybe? Range 30ft might also be nice
+  Duration: 1 min concentration
+  Description:
+    You touch a metal object (could be any object really but thematics for rittenhaus) and can increase or decrease the
+    weight of the object by 10lbs. If cast on a creature that creature gets a con saving throw to completely resist the
+    effects. If they fail their weight is affected by the amount specified by the caster. You can not reduce a 
+    creatures weight below 0 and have them cease to exist. (Maybe something about not being able to out right crush a 
+    creature under their own weight. Especially if cast at lvl6 and above.) Negative affects might apply to creatures 
+    who fail depending on DM rule. 
+    
+  UPCASTING:
+    For every level up until 5 you can add 10 lbs that you can affect with this spell, either increase or decrease. At 
+    lvl 6 the duration last until dispelled and requires no concentration. Also you can affect and control precisely 
+    how much weight to increase or decrease up to 100lbs for every level above 6 you can control a factor of 10 times 
+    more weight. So level 7 you can change 1,000lbs level 8 = 10,000 level 9 = 100,000
+    
+Rittenhaus Polarity Flux
+  Lvl: 3?
+  Casting time: 1 action
+  Range: 90ft
+  Area:30ft
+  Duration: instant
+  Save: strength
+  Description: 
+  You throw a mote of metal to a location in range. All metal in the area is either attracted/repelled to the mote. If 
+  a creature wearing metal is in the area they must succeed a strength saving throw or fall subject to the spells 
+  affect. The caster pick attraction or repulsion when the cast the spell.
+
+  Attracted: 
+    all metal objects or creatures that fail the save are hurled in a straight line towards the mote. If they 
+    collide with an object they take 3d8 bludgeoning damage. 
+
+  Repulsion: 
+    all metal objects or creature are forced in a straight line away from the mote until they reach the edge of the 
+    affected area. 
+    
+Rittenhaus Field of photon distortion
+  Lvl: 4
+  Range: 60ft
+  Area: 10ft radius
+  Casting Time: 1 action
+  Duration: 10 min concentration
+  Description: 
+    You create a magnetic field centered on an object so strong light and sound waves in the area get refracted around 
+    the area. Making any thing within the field appear invisible to creatures outside the field and no sound to pass 
+    out of the area. 
+=======================================================================================================================
+:EXTRAS:
+
+http://dnd5e.wikidot.com/background:archaeologist
+
+Character- JSON endpoint: https://character-service.dndbeyond.com/character/v3/character/39086801
+
+Magnetic Building:
+https://www.youtube.com/watch?v=UmHlE7SRJ5k
+
+
+  Xanathar's Guide to Everything adds optional rules for creating spell scrolls. They can be found on page 133, but 
+  I'll highlight the basics here. A character must have proficiency with the Arcana skill as well as the spell 
+  prepared/known and must have the material components required to cast the spell. The cost to scribe a spell scroll
+  is in gold required and time taken. See chart below, all Cantrips scribed are cast as if the caster were 1st level.
+
+  Level	  Time Cost	Gold Cost
+  Cantrip	1 day	    15 gp
+  1st	    1 day	    25 gp
+  2nd	    3 days	  250 gp
+  3rd	    1 week	  500 gp
+  4th	    2 weeks	  2,500 gp
+  5th	    4 weeks	  5,000 gp
+  6th	    8 weeks	  15,000 gp
+  7th	    16 weeks	25,000 gp
+  8th	    32 weeks	50,000 gp
+  9th	    48 weeks	250,000 gp

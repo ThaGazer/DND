@@ -9,28 +9,20 @@ way ipun decided to choose me for some reason and awoken the magic that was in m
 running around assisting ark
 -----
 Kuki Shinjin-gabriel: Dead
+  -left the party D:
 -----
 Quintillian Prodspire-jaycob:
 -----
 Svend Thorinson-troy:
 -----
 Nara Yuann-colin: Gone somewhere
+Lily Dammeroot:
 -----
 Krelic-mime: gone somewhere
 Nina: Holy savior
 -----
 
-
-The Trinity
-  Graul - goblin. Petty dealings.
-  Bosh - Deals in shady shit. Transport man
-  Mama Ruka - dwarf. reports and taxes.
-
 PEOPLE OF INTEREST:
-  bobo bilgins
-
-Expedition Guild:
-  Gorathil
 
 NPCs:
   bobo bilgins- bought majority of magic items leaving the Dahara. Ark doesnt like the resale of the items. They seem to
@@ -58,12 +50,20 @@ NPCs:
 
 Grey Crown:
   Dahara:
+    The Trinity:
+      Graul - goblin. Petty dealings.
+      Bosh - Deals in shady shit. Transport man
+      Mama Ruka - dwarf. reports and taxes.
+    
+    Expedition Guild:
+      Gorathil
   
   Camleot:
     Authur: A wanna be eldritch knight
     Merlin:
     Madam Morgana:
     Mizarak: Shopkeep
+      -pounding the madam
     
     Research lab:
       -David([dead] killed by svend) - undead goblin bartender who was hired to keep prying eyes out of the lab
@@ -88,7 +88,7 @@ Grey Crown:
     Slivana - Librarian
       Brit - Librarian assistant
       
-    Shin Jihn - Special guest 
+    Kylee Shin-Jihn - Special guest 
     
     Talk to Lauren for quest to protect banquent
     
@@ -103,13 +103,24 @@ Grey Crown:
   
   Brenkt:
     Mustafis - Devilish Tiefling that seems to be running brenkt
+      True Name - Mammon
+      
+      I made a deal with mustafis for my old body and bow. In return i owe him 48 hours of my time
+         - Anything I add to this contract is leagally binding
+         - Things modified after the time of signing are null and void
+         - If I die while working for the contract I must be resurrected in my body
+         - While working for the contract I can not kill or harm my current party memebers or family
       Deals:
         -deliver a package
+          -Leader of group that tried to steal the package was named Valgrund
         -collect taxes
         -guard duty
         -catch a thief
         -body a casino owner
-        
+          -named: Titanic Dice
+          
+    Lilith - secretary
+    
 The Fallen:
   Cledon:
   Gotin:

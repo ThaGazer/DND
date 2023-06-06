@@ -1,7 +1,10 @@
 Sacred Sons:
   * Oro Delphi
     - Group of Jawas call him boss
-  * Galen 'Doc' Hippo
+    - Gladiator Name: 
+      + The Baby Merkalot
+      + Hippos' Monster
+  * Galen 'Doc' Hippo(DEAD)
     - Daughter Amara
       + major thief
       + very tempermental teen
@@ -32,7 +35,8 @@ Sacred Sons:
   * Antonio
     - loves to fight
     - lover of the ladies
-  
+    - small crush on darkness
+    
 Party Allies:
   + Berky
     - goblin scout
@@ -100,6 +104,15 @@ Quests:
   * Exploration of the Second city of Man
     + First excavation
       - Deark was inscribed at the base of a statue in a room
+      - attacked by living plants that consumed bodies to fuel themselves
+    + Second excavation
+      - Uncovered the BFG
+      - a massive. absolute unit seige engine
+    + Third excavation
+      - Found a broken teleportation circle with a creast of three crossed torches
+      Loot:
+        - 40 units of arcano tech
+        - 20 pieces of raw silver      
       
 Secrets: 
   * Potential slave revolt in Sebusi
@@ -110,7 +123,6 @@ Secrets:
   * spies in the city from house Wavir
   * there was a massive massacre just out side the Ukk between the silverhand elves and some very organized unknown group
     
-  
 Carousing
   1) made a hostile middle class contact named quinn
   2) made an allied contact in Kaylean Vordone
@@ -133,6 +145,7 @@ World of Eb:
       - fought a magicore
       
     * The Arch Oasis
+      - just outside rock grove
       - a bunch of ware jackals have moved into this area with their new queen
       - They have been raiding the nearby cities for citizens to use as sacrifices in a ritual
       - The ritual they have been doing rejuvinates the land back to life and is turning the surrounding area into an oasis
@@ -214,18 +227,33 @@ World of Eb:
     * Arcano Tech Kabal
       + Lagren Tang
       + Jared
+      + Rave Vexation
     * Veiled Alliance
       + Is a secretive society. Devoted to the ending of defilement in eb. Oppose all the city states and 
         their armies of deilers opperates is small secluded factions that only answer to a higher member 
         when needed. This allows for defense against the cities.
-      + Darin
-      + Russel(Orkish)
-        - a researchers
+      Stones:
+        + Nyleise
+          - magic casters
+        + Sadon
+          - magic casters
+        + Darin
+        + Russel(Orkish)
+          - a researchers
+      Waves:
+        + Bjorn
+          - from the floating islands
+        + Taleb
+          - Mothers a lion and father is cat folk
+          - from the floating islands
     * Infernal Recruiters
       + Gorastro
       + Lady Carnrath
         - third in command
         - very powerful pyschic
+    * Blood Harpies
+      - a group of mutated people outside the second city of man
+      
   Sebusi:
     Notes:
       * Heated glass holds the city up out of the sand
@@ -294,13 +322,16 @@ World of Eb:
             - major beef
             - very greedy
             - had a symbiote draining her life force
-              - no longer has six eyes  
+              - no longer has six eyes
+            - dating?? typhoon
       + Whitching Flower: apothecary
         Notes:
           - interesting potion that looks like living mercury
         NPCs:
           * K'kikrik - owner of the shop
-          
+              - nice guy
+              - everything goes over his head
+              - very straight to the point
       + Hearthstone: inn
         Notes:
           - ran by Ricard
@@ -342,6 +373,7 @@ World of Eb:
         NPCs:
           * Bess Mistsplitter
             * secret: new ruin down south of sebusi
+              - referring to the second city of man
       + Torchlight Acadamey    
   Rock Grove:
     * Notes:
@@ -352,9 +384,10 @@ World of Eb:
       + Elegnos
         - keeper of the spinners in Rock Grove
       + Joshua
+        - met outside of the city
         - works for the kabal
       + Syla(yuanti)
-        - meet protecting the dwarf who stole darkness armor
+        - met protecting the dwarf who stole darkness armor
         - loot 
           + 50 gold 
           + 225 silver
@@ -392,12 +425,28 @@ HP Rolls:
 3:2
 4:2
 5:6
+6:4
           
 Ideas:
   Oros Ordinary Oddities
+    For sell:     (sebusi market day)
+    - 60lbs of arcano scrap (35 silver)
+    - potion of animal friendship (37 cer)
+    - +1 mace (30 gold)
+    - 34 giant fingernails (1020 cer)
+    - crossbow (25 cer)
+    - ring mail (30 cer)
+    - 2 short swords (10 cer)
+    - 2 leathers  (10 cer)
+    - 1 red rush  (9 cer)
+    - 2 spell scroll lvl 1 (6 silver)
+    - wand (10 cer)
+    - 509 ceramic
           
-          
-          
+    totals:
+    gold : 30 : 5
+    silver : 41 : 6 r 5
+    ceramic: 1670 : 280 r 5
           
           
           

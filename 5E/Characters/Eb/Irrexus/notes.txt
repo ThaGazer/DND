@@ -71,5 +71,9 @@ Loot
     wand of the war mage +1
     cryo container
       - single use cone of cold
+      
+  + Magma Metal Dueragar
+    - 135lbs of adamantine ore
+    - A bronze head of an Azer
     
     
