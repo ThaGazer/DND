@@ -32,16 +32,19 @@ Sacred Sons:
     - crazy rich
     - crazy
     - real name Lalatina Dustiness
+    - her magic is neither primal or arcanic
+    - worships the wind god Acadi
   * Antonio
     - loves to fight
     - lover of the ladies
     - small crush on darkness
+    - adopted a small kid named Julia. She is staying at the segundo rosa
     
 Party Allies:
   + Berky
     - goblin scout
     - completely useless
-    - was sent to kill petri
+    - was sent to kill petri and failed
   + Erod
     - Just a ball of hp
   + Thaxos Vordone
@@ -89,6 +92,9 @@ Quests:
         * little cube in the cluches of guy burried
           - a gem was inserted and then disapeared
         * A large iron golem guards a burrial ground
+          - pulled an item off of his chest
+          - powerful ancient artifact shaped like a dodecahedron
+          - its called the polyitech-scheme
     
   * thief in the city
     - smoldrai would love to punish
@@ -102,6 +108,8 @@ Quests:
   * Were tasked by the concil of Rock Grove to rescue citizens from a group of Werejackels
   
   * Exploration of the Second city of Man
+    * Also known as Tri city
+    
     + First excavation
       - Deark was inscribed at the base of a statue in a room
       - attacked by living plants that consumed bodies to fuel themselves
@@ -114,14 +122,28 @@ Quests:
         - 40 units of arcano tech
         - 20 pieces of raw silver      
       
+  * Slave Uprising
+    - We killed the king
+    
 Secrets: 
   * Potential slave revolt in Sebusi
+    - slave revolt has now been realized
   * New ruin: 
     - found under ground 
     - men of metal
     - location: deep south east along the silk lines
+    - veiled allience found a giant tank
   * spies in the city from house Wavir
   * there was a massive massacre just out side the Ukk between the silverhand elves and some very organized unknown group
+  * there will be an attempted assination of the sorcerer kings in sebusi
+  * Kaylean haded over
+    + a log of merchant trade going in and out of the city
+      - no food from the cackle cliffs
+      - no food from balic
+      - pulling all food from silverhand tribes
+      - pushing out a lot of iron to match the payment demands
+      - this stress cannot last long. maybe 1month
+    + a stack of letters with my crest on them
     
 Carousing
   1) made a hostile middle class contact named quinn
@@ -219,12 +241,17 @@ World of Eb:
         - mainly traders
       + Mistsplitter
       + Sliverhand
+        - lead by Toramund
       + Winddancers
         - once a great elven clan. A diease wiped out 18,000 of them. Now only about 400. 
         The diease also killed their kank herd. And then a thykreen attack disbanded their big city
   
   Factions:
     * Arcano Tech Kabal
+      + Barborus the Magi
+        - found in the alchemical sump. He died some time recently and his soul is not attached to a iron golem.
+        - He wants his apprentince to have his politecschema
+        - The politecschema has the power to pilot the world to a place where it can grow again
       + Lagren Tang
       + Jared
       + Rave Vexation
@@ -235,11 +262,21 @@ World of Eb:
       Stones:
         + Nyleise
           - magic casters
-        + Sadon
+          - leader of the stones faction
+        + Sadon Mobellis
           - magic casters
         + Darin
         + Russel(Orkish)
           - a researchers
+        + Diomedes
+          - metal man
+          - right hand to Nyleise
+        + Wrezu Yetix
+          - powerful magic caster
+        + Elegnos
+        + Darin Bladwalker
+        + Mushoo
+          - "The best allies are servants to each other"
       Waves:
         + Bjorn
           - from the floating islands
@@ -253,128 +290,40 @@ World of Eb:
         - very powerful pyschic
     * Blood Harpies
       - a group of mutated people outside the second city of man
+    * Rak' Ta
+      + Nigma
+        - leader of the lizards outside of sebusi
+      + Kaylith
+        - human is snake lady
+        - ties to typhoon
+        - showed up at the lammia fight and stole its staff
       
   Sebusi:
-    Notes:
-      * Heated glass holds the city up out of the sand
-        - protected by the solars
-      
-    NPCs:
-      * King Smuldrai
-      * Stud(gnome) the Kank Farmer
-        - kank (old knak)
-      * Quinn Farlight
-        - hostile contact
-        - carpenter
-        - younger newphew of the old owner
-        - 
-      * #2
-        - kid who lived near by me in the warrens
-        - looks very sickly
-      * Berky
-        - hangs around the four eyes tavern
-      * Erond
-        - real mamas boy
-        - just a beef cake
-      * Professor Asher
-        - teaches at the Torchlight acadamey
+    City Production: 
+      + wealth = 24
+      + labor = 1/10
+      + goods = 12
+      + moral = 10 (inspiration for the week)
+  
+    Guilds:
+      + Merchant
+        - Overseer: me
+        - Guildmaster: Monomotag
         
-    Factions:  
-      + Temple of Rays:
-        Notes:
-          - home of the templars of sebusi
-        NPCs:
-          * Skullcrusher (half giant)
-          * Solar Dusi (half giant)
-          * Agusto Fines
-            - script keeper for the temple
-      + House Vordone: 
-        Notes:
-          - colors red and black
-          - ive been paying off my debut to them
-            + debt has been paid by thaxos vordone
-          - real metal sword hanging on the wall in Thaxos private room
-        NPCs:
-          * Thaxos Vordone - father to kaylean
-          * Petri Vordone - scum bag
-            - son to Thaxos
-            - torch-bearer
-            - scuire to Skullcrusher
-            - pet sudo dragon named nugget
-          * Kaylean Vordone - getting married to some other smuck in house wavir
-            - got her throat slit by a defiler, but darkness healed her
-            - total gosip
-      + House Wavir:
-        Notes:
-          - colors blue and silver
-          - under interrigation for the spinner attack in sebusi
-          - there was appently a second shipment that was not noted
-          - a whisper about a bombing in sebusi is being accredited to them
-        NPCs:
-      +  Enduring Aristocracy
-        - also know as Eternal Sovergn
-        - directly apposed to Veiled Alliance
-        - want to keep the chaos of the desserts
-    Shops:
-      + Main Market:
-        NPCs:
-          * Agis
-            - major beef
-            - very greedy
-            - had a symbiote draining her life force
-              - no longer has six eyes
-            - dating?? typhoon
-      + Whitching Flower: apothecary
-        Notes:
-          - interesting potion that looks like living mercury
-        NPCs:
-          * K'kikrik - owner of the shop
-              - nice guy
-              - everything goes over his head
-              - very straight to the point
-      + Hearthstone: inn
-        Notes:
-          - ran by Ricard
-          - possible uprising of the slaves. Meet in the basement.
-            + Overheard convos
-              - spies in the city from house Wavir
-              - spider attack. some boy and his mother and they arnt doing good
-        NPCs:
-          * Ricard:
-            - once a slave
-            - bought his own freedom
-            - possibly leading a slave rebellion
-            
-      + Four eyes Tavern:
-          Notes:
-            - maybe moving some shady shit
-          NPCs:
-            - Zarglug owns the place
-      + A Door Ore: metal working (currently vacant)
-        Notes:
-          - under cutting the iron supply to the city
-          - owner is currently under arrest for theft
-          - NUKED a small city block trying to make magic bullets for typhoon
-        NPCs:
-          * Phylo 
-            - a young and up in coming blacksmith
-            - DEAD died in a explosion
-          
-      + Tanning shop:
-        Notes:
-          - traded magicore hide to create a magic fail and a ?claw?
-        NPCs:
-          * Atracia: had a brand new baby
-          * Jaryx:
-          
-      + Mistsplitter Bath house
-        Notes:
-          - elven house in the waste
-        NPCs:
-          * Bess Mistsplitter
-            * secret: new ruin down south of sebusi
-              - referring to the second city of man
-      + Torchlight Acadamey    
+        - whisperings of shops not wanting to join the guild and are going ot make there own
+      + Miner
+        - Overseer: Bjorn
+        - Guildmaster: Ricard
+      + Entertainer
+        - Overseer: Antonio
+        - Guildmaster: 
+      + Acadamey
+        - Overseer: Darkness
+        - Guildmaster: Professor Asher
+      + Horticulture
+        - Overseer: Eli
+        - Guildmaster: 
+      
   Rock Grove:
     * Notes:
         + jackal wares have been seen abducting people outside the city
@@ -408,7 +357,7 @@ World of Eb:
       + Apothekery
         - Owner Qou
       + Wane Wright and Mounts
-        - Owner Serali and her sister Vindatta
+        - Owner Serali and her sister Vindatta Clearwater
         - warejackels kidnapped Vindatta 
       + Rock Grove Textiles
         - Owner Xaphina(gnome)
@@ -418,7 +367,28 @@ World of Eb:
     * Notes:
     
     * NPCs:
-          
+    * Factions
+      + House Wavir
+  Rham:
+    * Ruled by the sorcerer Queen Abalock-ray
+  Nibenay:
+    
+    * Factions
+      + House Shom
+        - lead by Giovvo Shom
+  Draj:
+    
+    * NPCs
+      + Bengasi
+        - giant monkey fighter
+    * Factions
+      + House Tsalaxa
+        - lead by Y'dris Tsalaxa
+        
+        
+        
+        
+        
 HP Rolls:
 1:10
 2:9
@@ -426,9 +396,12 @@ HP Rolls:
 4:2
 5:6
 6:4
+7:8
+8:7
           
 Ideas:
-  Oros Ordinary Oddities
+  + Nuts & Nectar
+  + Oros Ordinary Oddities
     For sell:     (sebusi market day)
     - 60lbs of arcano scrap (35 silver)
     - potion of animal friendship (37 cer)
