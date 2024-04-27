@@ -1,0 +1,138 @@
+Sebusi:
+  Notes:
+    * Heated glass holds the city up out of the sand
+      - protected by the solars
+    * The king is DEAD!
+    
+  NPCs:
+    * King Smuldrai 
+      - DEAD
+    * Stud(gnome) the Kank Farmer
+      - kank (old knak)
+    * Quinn Farlight
+      - hostile contact
+      - carpenter
+      - younger newphew of the old owner
+      - 
+    * #2 (Died to black lung)
+      - kid who lived near by me in the warrens
+      - looks very sickly
+    * Berky (DEAD to skullcrusher after atempted assination of petri)
+      - hangs around the four eyes tavern
+    * Erond
+      - real mamas boy
+      - just a beef cake
+    * Professor Asher
+      - teaches at the Torchlight acadamey
+      
+  Factions:  
+      + Temple of Rays:
+        Notes:
+          - home of the templars of sebusi
+        NPCs:
+          * Skullcrusher (half giant)
+            - extremely loyal
+            - works for the Vordones
+            - 
+          * Solar Dusi (half giant)
+            - righteous
+            - works for king smoldrai
+          * Agusto Fines
+            - script keeper for the temple
+      + House Vordone: 
+        Notes:
+          - colors red and black
+          - ive been paying off my debut to them
+            + debt has been paid by thaxos vordone
+          - real metal sword hanging on the wall in Thaxos private room
+          - hires an assassin called the shadow
+        NPCs:
+          * Thaxos Vordone - father to kaylean
+          * Petri Vordone - scum bag
+            - son to Thaxos
+            - torch-bearer
+            - scuire to Skullcrusher
+            - pet sudo dragon named nugget
+          * Kaylean Vordone - getting married to some other smuck in house wavir
+            - got her throat slit by a defiler, but darkness healed her
+            - total gosip
+      + House Wavir:
+        Notes:
+          - colors blue and silver
+          - under interrigation for the spinner attack in sebusi
+          - there was appently a second shipment that was not noted
+          - a whisper about a bombing in sebusi is being accredited to them
+        NPCs:
+      +  Enduring Aristocracy
+        - also know as Eternal Sovergn
+        - directly apposed to Veiled Alliance
+        - want to keep the chaos of the desserts
+      + 
+    Shops:
+      + Main Market:
+        NPCs:
+          * Agis
+            - major beef
+            - very greedy
+            - had a symbiote draining her life force
+              - no longer has six eyes
+            - dating?? typhoon
+            - will betray friends when life put in danger
+      + Whitching Flower: apothecary
+        Notes:
+          - interesting potion that looks like living mercury
+        NPCs:
+          * K'kikrik - owner of the shop
+              - nice guy
+              - everything goes over his head
+              - very straight to the point
+      + Hearthstone: inn
+        Notes:
+          - ran by Ricard
+          - possible uprising of the slaves. Meet in the basement.
+            + Overheard convos
+              - spies in the city from house Wavir
+              - spider attack. some boy and his mother and they arnt doing good
+        NPCs:
+          * Ricard:
+            - once a slave
+            - bought his own freedom
+            - -possibly-/def leading a slave rebellion
+            
+      + Four eyes Tavern:
+          Notes:
+            - maybe moving some shady shit
+          NPCs:
+            - Zarglug owns the place
+      + A Door Ore: metal working (currently vacant)
+        Notes:
+          - under cutting the iron supply to the city
+          - owner is currently under arrest for theft
+          - NUKED a small city block trying to make magic bullets for typhoon
+        NPCs:
+          * Phylo 
+            - a young and up in coming blacksmith
+            - DEAD died in an explosion
+          
+      + Tanning shop:
+        Notes:
+          - traded magicore hide to create a magic fail and a ?claw?
+        NPCs:
+          * Atracia: had a brand new baby
+          * Jaryx:
+          
+      + Mistsplitter Bath house
+        Notes:
+          - elven house in the waste
+        NPCs:
+          * Bess Mistsplitter
+            - secret master
+            - highly useful
+            - very well connected
+      + Torchlight Acadamey
+        Notes:
+        NPC:
+          * Professor Asher
+          * Momomomontag
+      + Soothsayer
+      
