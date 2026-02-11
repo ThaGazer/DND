@@ -62,6 +62,7 @@ Quests:
     - the city offered 2500 ceramic for any adventures that went to help 
       - plus 5 silver per person recovered
     - All citizens were saved and brought back to the city
+
   * escort a carvan to the cackeling ?hills? for the Solars to gather food for the city
     - 10c per day base pay
     - 1c per ear of gnole
@@ -297,6 +298,8 @@ World of Eb:
         - human is snake lady
         - ties to typhoon
         - showed up at the lammia fight and stole its staff
+    * Eiljah
+	- 
       
   Sebusi:
     City Production: 
@@ -377,17 +380,12 @@ World of Eb:
       + House Shom
         - lead by Giovvo Shom
   Draj:
-    
     * NPCs
       + Bengasi
         - giant monkey fighter
     * Factions
       + House Tsalaxa
         - lead by Y'dris Tsalaxa
-        
-        
-        
-        
         
 HP Rolls:
 1:10
@@ -399,6 +397,15 @@ HP Rolls:
 7:8
 8:7
 11:8
+12:10
+13:6
+14:10
+15:3
+16:9
+17:1
+18:10
+19:1
+20:5   111
           
 Ideas:
   + Nuts & Nectar
